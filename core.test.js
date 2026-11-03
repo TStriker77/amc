@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {blank,positions,validate,csvRecords,parseCSV,dateValid} from './core.js';
+const trade=(side,quantity,price,fees,date,order)=>({id:String(order),ticker:'PETR4',side,quantity,price,fees,date,order});
+test('custo médio inclui taxas e venda realiza resultado proporcional',()=>{const p=positions([trade('Compra',10,20,2,'2026-01-01',0),trade('Compra',10,30,2,'2026-01-02',1),trade('Venda',5,40,1,'2026-01-03',2)])[0];assert.equal(p.quantity,15);assert.equal(p.cost,378);assert.equal(p.realized,73);});
+test('venda antes da compra e venda excessiva são rejeitadas',()=>{assert.throws(()=>positions([trade('Venda',1,10,0,'2026-01-01',0)]));assert.throws(()=>positions([trade('Compra',1,10,0,'2026-01-02',0),trade('Venda',1,10,0,'2026-01-01',1)]));});
+test('encerramento e reabertura preservam resultado realizado',()=>{const p=positions([trade('Compra',1,10,0,'2026-01-01',0),trade('Venda',1,12,0,'2026-01-02',1),trade('Compra',2,20,0,'2026-01-03',2)])[0];assert.deepEqual(p,{ticker:'PETR4',quantity:2,cost:40,realized:2});});
+test('CSV brasileiro e colunas com aspas',()=>{const rows=csvRecords('ticker;side;quantity;price;fees;date\nPETR4;Compra;10;"20,50";0;2026-01-01');assert.equal(rows[0].price,20.5);const s=blank();s.trades=rows;assert.equal(validate(s),s);assert.equal(parseCSV('a,b\n"um,dois","a""b"')[0].b,'a"b');assert.throws(()=>parseCSV('a,b\n1'));});
+test('backup inválido é rejeitado e datas impossíveis não passam',()=>{const s=blank();assert.equal(validate(s),s);assert.throws(()=>validate({...s,version:9}));s.trades=[trade('Compra',1,NaN,0,'2026-01-01',0)];assert.throws(()=>validate(s));assert.equal(dateValid('2026-02-30'),false);assert.equal(dateValid('2026-02-28'),true);});
+test('valores negativos, ids duplicados e foto SVG são rejeitados',()=>{const s=blank();s.trades=[trade('Compra',1,20,0,'2026-01-01',0),trade('Compra',1,20,0,'2026-01-02',0)];assert.throws(()=>validate(s));s.trades=[trade('Compra',-1,20,0,'2026-01-01',0)];assert.throws(()=>validate(s));s.trades=[];s.profile.photo='data:image/svg+xml;base64,PHN2Zz4=';assert.throws(()=>validate(s));});

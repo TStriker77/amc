@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "start": "node server.js", "test": "node --test", "check": "node --check app.js && node --check core.js && node --check server.js" }
+  "scripts": { "start": "node server.js", "test": "node --test", "check": "node --check app.js && node --check public-core.js && node --check server.js", "news:update": "node scripts/start-news.mjs", "news:collect": "node scripts/update-news.mjs --collect-only" }
 }

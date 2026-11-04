@@ -1,0 +1,5568 @@
+{
+  "source": "https://dados.cvm.gov.br/dados/CIA_ABERTA/CAD/DADOS/cad_cia_aberta.csv",
+  "retrievedAt": "2026-11-04T15:21:58.385Z",
+  "companies": {
+    "COGN3": {
+      "code": "17973",
+      "name": "COGNA EDUCAÇÃO S.A.",
+      "cnpj": "02800026000140"
+    },
+    "PMAM3": {
+      "code": "9393",
+      "name": "PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "60398369000479"
+    },
+    "POMO4": {
+      "code": "8451",
+      "name": "MARCOPOLO SA",
+      "cnpj": "88611835000129"
+    },
+    "MGLU3": {
+      "code": "22470",
+      "name": "MAGAZINE LUIZA SA",
+      "cnpj": "47960950000121"
+    },
+    "ITUB4": {
+      "code": "19348",
+      "name": "ITAÚ UNIBANCO HOLDING S.A.",
+      "cnpj": "60872504000123"
+    },
+    "B3SA3": {
+      "code": "21610",
+      "name": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "cnpj": "09346601000125"
+    },
+    "ITSA4": {
+      "code": "7617",
+      "name": "ITAUSA S.A.",
+      "cnpj": "61532644000115"
+    },
+    "MOVI3": {
+      "code": "23825",
+      "name": "MOVIDA PARTICIPAÇÕES S.A.",
+      "cnpj": "21314559000166"
+    },
+    "PETR4": {
+      "code": "9512",
+      "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "cnpj": "33000167000101"
+    },
+    "RADL3": {
+      "code": "5258",
+      "name": "RAIA DROGASIL S.A.",
+      "cnpj": "61585865000151"
+    },
+    "ECOR3": {
+      "code": "19453",
+      "name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+      "cnpj": "04149454000180"
+    },
+    "BBSE3": {
+      "code": "23159",
+      "name": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+      "cnpj": "17344597000194"
+    },
+    "POMO3": {
+      "code": "8451",
+      "name": "MARCOPOLO SA",
+      "cnpj": "88611835000129"
+    },
+    "MRVE3": {
+      "code": "20915",
+      "name": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+      "cnpj": "08343492000120"
+    },
+    "PGMN3": {
+      "code": "22608",
+      "name": "EMPREENDIMENTOS PAGUE MENOS SA",
+      "cnpj": "06626253000151"
+    },
+    "CSAN3": {
+      "code": "19836",
+      "name": "COSAN S.A.",
+      "cnpj": "50746577000115"
+    },
+    "MOTV3": {
+      "code": "18821",
+      "name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+      "cnpj": "02846056000197"
+    },
+    "CSNA3": {
+      "code": "4030",
+      "name": "CIA SIDERURGICA NACIONAL",
+      "cnpj": "33042730000104"
+    },
+    "RAIZ55": {
+      "code": "25917",
+      "name": "RAÍZEN S.A.",
+      "cnpj": "33453598000123"
+    },
+    "BEEF3": {
+      "code": "20931",
+      "name": "MINERVA S/A",
+      "cnpj": "67620377000114"
+    },
+    "LREN3": {
+      "code": "8133",
+      "name": "LOJAS RENNER SA",
+      "cnpj": "92754738000162"
+    },
+    "CYRE3": {
+      "code": "14460",
+      "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+      "cnpj": "73178600000118"
+    },
+    "ABEV3": {
+      "code": "23264",
+      "name": "AMBEV S.A.",
+      "cnpj": "07526557000100"
+    },
+    "AXIA3": {
+      "code": "2437",
+      "name": "AXIA ENERGIA S.A.",
+      "cnpj": "00001180000126"
+    },
+    "VALE3": {
+      "code": "4170",
+      "name": "VALE S.A.",
+      "cnpj": "33592510000154"
+    },
+    "SIMH3": {
+      "code": "25003",
+      "name": "SIMPAR S.A.",
+      "cnpj": "07415333000120"
+    },
+    "CVCB3": {
+      "code": "23310",
+      "name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
+      "cnpj": "10760260000119"
+    },
+    "DIRR3": {
+      "code": "21350",
+      "name": "DIRECIONAL ENGENHARIA SA",
+      "cnpj": "16614075000100"
+    },
+    "USIM5": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "cnpj": "60894730000105"
+    },
+    "SMFT3": {
+      "code": "24260",
+      "name": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+      "cnpj": "07594978000178"
+    },
+    "ALOS3": {
+      "code": "22357",
+      "name": "ALLOS S.A.",
+      "cnpj": "05878397000132"
+    },
+    "CBAV3": {
+      "code": "25984",
+      "name": "COMPANHIA BRASILEIRA DE ALUMINIO",
+      "cnpj": "61409892000173"
+    },
+    "HAPV3": {
+      "code": "24392",
+      "name": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+      "cnpj": "05197443000138"
+    },
+    "ASAI3": {
+      "code": "25372",
+      "name": "SENDAS DISTRIBUIDORA S.A.",
+      "cnpj": "06057223000171"
+    },
+    "NATU3": {
+      "code": "19550",
+      "name": "NATURA COSMETICOS SA",
+      "cnpj": "71673990000177"
+    },
+    "ENEV3": {
+      "code": "21237",
+      "name": "ENEVA S.A.",
+      "cnpj": "04423567000121"
+    },
+    "AMBP3": {
+      "code": "24961",
+      "name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "12648266000124"
+    },
+    "RCSL4": {
+      "code": "12572",
+      "name": "RECRUSUL SA",
+      "cnpj": "91333666000117"
+    },
+    "PRIO3": {
+      "code": "22187",
+      "name": "PRIO S.A.",
+      "cnpj": "10629105000168"
+    },
+    "EQTL3": {
+      "code": "20010",
+      "name": "EQUATORIAL S.A.",
+      "cnpj": "03220438000173"
+    },
+    "MULT3": {
+      "code": "20982",
+      "name": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+      "cnpj": "07816890000153"
+    },
+    "ANIM3": {
+      "code": "23248",
+      "name": "ANIMA HOLDING S/A",
+      "cnpj": "09288252000132"
+    },
+    "WEGE3": {
+      "code": "5410",
+      "name": "WEG SA",
+      "cnpj": "84429695000111"
+    },
+    "JHSF3": {
+      "code": "20605",
+      "name": "JHSF PARTICIPAÇÕES SA",
+      "cnpj": "08294224000165"
+    },
+    "CMIN3": {
+      "code": "25585",
+      "name": "CSN MINERAÇÃO S.A.",
+      "cnpj": "08902291000115"
+    },
+    "GOAU4": {
+      "code": "8656",
+      "name": "METALURGICA GERDAU SA",
+      "cnpj": "92690783000109"
+    },
+    "PETR3": {
+      "code": "9512",
+      "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "cnpj": "33000167000101"
+    },
+    "TOTS3": {
+      "code": "19992",
+      "name": "TOTVS S.A",
+      "cnpj": "53113791000122"
+    },
+    "VBBR3": {
+      "code": "24295",
+      "name": "VIBRA ENERGIA S/A",
+      "cnpj": "34274233000102"
+    },
+    "EMBJ3": {
+      "code": "20087",
+      "name": "EMBRAER S.A.",
+      "cnpj": "07689002000189"
+    },
+    "CXSE3": {
+      "code": "23795",
+      "name": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+      "cnpj": "22543331000100"
+    },
+    "ISAE4": {
+      "code": "18376",
+      "name": "ISA ENERGIA BRASIL S.A.",
+      "cnpj": "02998611000104"
+    },
+    "GGPS3": {
+      "code": "25712",
+      "name": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+      "cnpj": "09229201000130"
+    },
+    "RENT3": {
+      "code": "19739",
+      "name": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085000155"
+    },
+    "YDUQ3": {
+      "code": "21016",
+      "name": "YDUQS PARTICIPACOES S.A.",
+      "cnpj": "08807432000110"
+    },
+    "SUZB3": {
+      "code": "13986",
+      "name": "SUZANO S.A.",
+      "cnpj": "16404287000155"
+    },
+    "QUAL3": {
+      "code": "22497",
+      "name": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+      "cnpj": "11992680000193"
+    },
+    "SBFG3": {
+      "code": "24694",
+      "name": "GRUPO SBF S.A.",
+      "cnpj": "13217485000111"
+    },
+    "GGBR4": {
+      "code": "3980",
+      "name": "GERDAU S.A.",
+      "cnpj": "33611500000119"
+    },
+    "LJQQ3": {
+      "code": "25038",
+      "name": "LOJAS QUERO QUERO S.A.",
+      "cnpj": "96418264021802"
+    },
+    "EZTC3": {
+      "code": "20770",
+      "name": "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A",
+      "cnpj": "08312229000173"
+    },
+    "PLPL3": {
+      "code": "25070",
+      "name": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "24230275000180"
+    },
+    "RAIL3": {
+      "code": "17450",
+      "name": "RUMO S.A.",
+      "cnpj": "02387241000160"
+    },
+    "AZZA3": {
+      "code": "22349",
+      "name": "AZZAS 2154 S.A.",
+      "cnpj": "16590234000176"
+    },
+    "DASA3": {
+      "code": "19623",
+      "name": "DIAGNOSTICOS DA AMERICA SA",
+      "cnpj": "61486650000183"
+    },
+    "RDOR3": {
+      "code": "24821",
+      "name": "REDE D'OR SÃO LUIZ S.A.",
+      "cnpj": "06047087000139"
+    },
+    "KLBN4": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "VVEO3": {
+      "code": "25682",
+      "name": "CM HOSPITALAR S.A",
+      "cnpj": "12420164000157"
+    },
+    "CURY3": {
+      "code": "25100",
+      "name": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "cnpj": "08797760000183"
+    },
+    "VIVA3": {
+      "code": "24805",
+      "name": "VIVARA PARTICIPAÇÕES S.A.",
+      "cnpj": "33839910000111"
+    },
+    "GFSA3": {
+      "code": "16101",
+      "name": "GAFISA SA",
+      "cnpj": "01545826000107"
+    },
+    "AMAR3": {
+      "code": "22055",
+      "name": "MARISA LOJAS SA",
+      "cnpj": "61189288000189"
+    },
+    "TEND3": {
+      "code": "21148",
+      "name": "CONSTRUTORA TENDA S/A",
+      "cnpj": "71476527000135"
+    },
+    "UGPA3": {
+      "code": "18465",
+      "name": "ULTRAPAR PARTICIPAÇÕES SA",
+      "cnpj": "33256439000139"
+    },
+    "RANI3": {
+      "code": "2429",
+      "name": "IRANI PAPEL E EMBALAGEM S.A.",
+      "cnpj": "92791243000103"
+    },
+    "TIMS3": {
+      "code": "24929",
+      "name": "TIM S.A.",
+      "cnpj": "02421421000111"
+    },
+    "AUAU3": {
+      "code": "27766",
+      "name": "UNIÃO PET PARTICIPAÇÕES S.A.",
+      "cnpj": "53153938000108"
+    },
+    "GMAT3": {
+      "code": "25186",
+      "name": "GRUPO MATEUS S.A.",
+      "cnpj": "24990777000109"
+    },
+    "SAUD3": {
+      "code": "20125",
+      "name": "BRADSAÚDE S.A.",
+      "cnpj": "58119199000151"
+    },
+    "GRND3": {
+      "code": "19615",
+      "name": "GRENDENE SA",
+      "cnpj": "89850341000160"
+    },
+    "ONCO3": {
+      "code": "26123",
+      "name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+      "cnpj": "12104241000402"
+    },
+    "BRAP4": {
+      "code": "18724",
+      "name": "BRADESPAR S/A",
+      "cnpj": "03847461000192"
+    },
+    "LWSA3": {
+      "code": "24910",
+      "name": "LWSA S/A",
+      "cnpj": "02351877000152"
+    },
+    "ALPA4": {
+      "code": "10456",
+      "name": "ALPARGATAS SA",
+      "cnpj": "61079117000105"
+    },
+    "MDNE3": {
+      "code": "21067",
+      "name": "MOURA DUBEUX ENGENHARIA S/A",
+      "cnpj": "12049631000184"
+    },
+    "ORVR3": {
+      "code": "25550",
+      "name": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+      "cnpj": "11421994000136"
+    },
+    "RAPT4": {
+      "code": "14109",
+      "name": "RANDONCORP S.A.",
+      "cnpj": "89086144000116"
+    },
+    "BRBI11": {
+      "code": "25860",
+      "name": "BRBI BR PARTNERS S.A",
+      "cnpj": "10739356000103"
+    },
+    "RIAA3": {
+      "code": "4669",
+      "name": "GUARARAPES CONFECÇÕES SA",
+      "cnpj": "08402943000152"
+    },
+    "IGTI11": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "VULC3": {
+      "code": "11762",
+      "name": "VULCABRAS S.A.",
+      "cnpj": "50926955000142"
+    },
+    "OPCT3": {
+      "code": "25534",
+      "name": "OCEANPACT SERVIÇOS MARÍTIMOS S.A.",
+      "cnpj": "09114805000130"
+    },
+    "HYPE3": {
+      "code": "21431",
+      "name": "HYPERA S/A",
+      "cnpj": "02932074000191"
+    },
+    "FLRY3": {
+      "code": "21881",
+      "name": "FLEURY SA",
+      "cnpj": "60840055000131"
+    },
+    "BMGB4": {
+      "code": "24600",
+      "name": "BANCO BMG S/A",
+      "cnpj": "61186680000174"
+    },
+    "DXCO3": {
+      "code": "21091",
+      "name": "DEXCO S.A.",
+      "cnpj": "97837181000147"
+    },
+    "VIVT3": {
+      "code": "17671",
+      "name": "TELEFÔNICA BRASIL S.A.",
+      "cnpj": "02558157000162"
+    },
+    "MBRF3": {
+      "code": "20788",
+      "name": "MARFRIG GLOBAL FOODS SA",
+      "cnpj": "03853896000140"
+    },
+    "BRAV3": {
+      "code": "25291",
+      "name": "BRAVA ENERGIA S.A.",
+      "cnpj": "12091809000155"
+    },
+    "ENGI11": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "RECV3": {
+      "code": "25780",
+      "name": "PETRORECÔNCAVO S.A.",
+      "cnpj": "03342704000130"
+    },
+    "KLBN11": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "KEPL3": {
+      "code": "7870",
+      "name": "KEPLER WEBER SA",
+      "cnpj": "91983056000169"
+    },
+    "AURE3": {
+      "code": "26620",
+      "name": "AUREN ENERGIA S.A",
+      "cnpj": "28594234000123"
+    },
+    "CAML3": {
+      "code": "24228",
+      "name": "CAMIL ALIMENTOS S/A",
+      "cnpj": "64904295000103"
+    },
+    "JALL3": {
+      "code": "25496",
+      "name": "JALLES MACHADO S.A.",
+      "cnpj": "02635522000195"
+    },
+    "ALLD3": {
+      "code": "25330",
+      "name": "ALLIED TECNOLOGIA S.A.",
+      "cnpj": "20247322000147"
+    },
+    "JSLG3": {
+      "code": "22020",
+      "name": "JSL S.A.",
+      "cnpj": "52548435000179"
+    },
+    "TTEN3": {
+      "code": "25950",
+      "name": "TRÊS TENTOS AGROINDUSTRIAL S.A.",
+      "cnpj": "94813102000170"
+    },
+    "TUPY3": {
+      "code": "6343",
+      "name": "TUPY SA",
+      "cnpj": "84683374000149"
+    },
+    "TAEE11": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "PSSA3": {
+      "code": "16659",
+      "name": "PORTO SEGURO SA",
+      "cnpj": "02149205000169"
+    },
+    "EGIE3": {
+      "code": "17329",
+      "name": "ENGIE BRASIL ENERGIA S.A.",
+      "cnpj": "02474103000119"
+    },
+    "SMTO3": {
+      "code": "20516",
+      "name": "SÃO MARTINHO SA",
+      "cnpj": "51466860000156"
+    },
+    "SLCE3": {
+      "code": "20745",
+      "name": "SLC AGRICOLA SA",
+      "cnpj": "89096457000155"
+    },
+    "PTBL3": {
+      "code": "13773",
+      "name": "PBG S/A",
+      "cnpj": "83475913000191"
+    },
+    "CPFE3": {
+      "code": "18660",
+      "name": "CPFL ENERGIA SA",
+      "cnpj": "02429144000193"
+    },
+    "BRKM5": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "WIZC3": {
+      "code": "23590",
+      "name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
+      "cnpj": "42278473000103"
+    },
+    "ITUB3": {
+      "code": "19348",
+      "name": "ITAÚ UNIBANCO HOLDING S.A.",
+      "cnpj": "60872504000123"
+    },
+    "ARML3": {
+      "code": "26069",
+      "name": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",
+      "cnpj": "00242184000104"
+    },
+    "TASA4": {
+      "code": "6173",
+      "name": "TAURUS ARMAS S.A.",
+      "cnpj": "92781335000102"
+    },
+    "SHUL4": {
+      "code": "14664",
+      "name": "SCHULZ SA",
+      "cnpj": "84693183000168"
+    },
+    "VTRU3": {
+      "code": "27057",
+      "name": "VITRU EDUCAÇÃO S.A.",
+      "cnpj": "20512706000140"
+    },
+    "AZTE3": {
+      "code": "27626",
+      "name": "AZEVEDO & TRAVASSOS ENERGIA S.A.",
+      "cnpj": "52017473000103"
+    },
+    "PNVL3": {
+      "code": "9342",
+      "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
+      "cnpj": "92665611000177"
+    },
+    "USIM3": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "cnpj": "60894730000105"
+    },
+    "FIQE3": {
+      "code": "26050",
+      "name": "UNIFIQUE TELECOMUNICAÇÕES S.A.",
+      "cnpj": "02255187000108"
+    },
+    "CSED3": {
+      "code": "25526",
+      "name": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
+      "cnpj": "62984091000102"
+    },
+    "PDGR3": {
+      "code": "20478",
+      "name": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+      "cnpj": "02950811000189"
+    },
+    "ITSA3": {
+      "code": "7617",
+      "name": "ITAUSA S.A.",
+      "cnpj": "61532644000115"
+    },
+    "OBTC3": {
+      "code": "27910",
+      "name": "ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO",
+      "cnpj": "59693110000129"
+    },
+    "EVEN3": {
+      "code": "20524",
+      "name": "EVEN CONSTRUTORA E INCORPORADORA S/A",
+      "cnpj": "43470988000165"
+    },
+    "HBSA3": {
+      "code": "22675",
+      "name": "HIDROVIAS DO BRASIL S.A.",
+      "cnpj": "12648327000153"
+    },
+    "PASS3": {
+      "code": "25127",
+      "name": "COMPASS GÁS E ENERGIA S.A.",
+      "cnpj": "21389501000181"
+    },
+    "TGMA3": {
+      "code": "20800",
+      "name": "TEGMA GESTÃO LOGÍSTICA SA",
+      "cnpj": "02351144000118"
+    },
+    "MTRE3": {
+      "code": "24902",
+      "name": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+      "cnpj": "07882930000165"
+    },
+    "SOJA3": {
+      "code": "25704",
+      "name": "BOA SAFRA SEMENTES S.A",
+      "cnpj": "10807374000177"
+    },
+    "POSI3": {
+      "code": "20362",
+      "name": "POSITIVO TECNOLOGIA S.A.",
+      "cnpj": "81243735000148"
+    },
+    "LAVV3": {
+      "code": "25062",
+      "name": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A",
+      "cnpj": "26462693000128"
+    },
+    "VITT3": {
+      "code": "25763",
+      "name": "VITTIA S.A.",
+      "cnpj": "45365558000109"
+    },
+    "TFCO4": {
+      "code": "25208",
+      "name": "TRACK & FIELD CO S.A",
+      "cnpj": "59418806000147"
+    },
+    "IRBR3": {
+      "code": "24180",
+      "name": "IRB - BRASIL RESSEGUROS S.A.",
+      "cnpj": "33376989000191"
+    },
+    "KLBN3": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "CYRE4": {
+      "code": "14460",
+      "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+      "cnpj": "73178600000118"
+    },
+    "CASH3": {
+      "code": "25232",
+      "name": "MELIUZ S.A.",
+      "cnpj": "14110585000107"
+    },
+    "PRNR3": {
+      "code": "24236",
+      "name": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
+      "cnpj": "18593815000197"
+    },
+    "HBRE3": {
+      "code": "25402",
+      "name": "HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "cnpj": "14785152000151"
+    },
+    "LPSB3": {
+      "code": "20370",
+      "name": "LPS BRASIL CONSULTORIA DE IMOVEIS S/A",
+      "cnpj": "08078847000109"
+    },
+    "MELK3": {
+      "code": "25119",
+      "name": "MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "12181987000177"
+    },
+    "DESK3": {
+      "code": "26026",
+      "name": "DESKTOP S.A",
+      "cnpj": "08170849000115"
+    },
+    "BRST3": {
+      "code": "27693",
+      "name": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
+      "cnpj": "04601397000128"
+    },
+    "SEER3": {
+      "code": "23221",
+      "name": "SER EDUCACIONAL S.A.",
+      "cnpj": "04986320000113"
+    },
+    "BLAU3": {
+      "code": "24627",
+      "name": "BLAU FARMACÊUTICA S.A.",
+      "cnpj": "58430828000160"
+    },
+    "BMOB3": {
+      "code": "25500",
+      "name": "BEMOBI MOBILE TECH S.A.",
+      "cnpj": "09042817000105"
+    },
+    "MILS3": {
+      "code": "22012",
+      "name": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",
+      "cnpj": "27093558000115"
+    },
+    "POMO4F": {
+      "code": "8451",
+      "name": "MARCOPOLO SA",
+      "cnpj": "88611835000129"
+    },
+    "TAEE3": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "IGTI3": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "ROMI3": {
+      "code": "7510",
+      "name": "ROMI S.A.",
+      "cnpj": "56720428000163"
+    },
+    "ITSA4F": {
+      "code": "7617",
+      "name": "ITAUSA S.A.",
+      "cnpj": "61532644000115"
+    },
+    "TAEE4": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "HBOR3": {
+      "code": "20877",
+      "name": "HELBOR EMPREENDIMENTOS S/A",
+      "cnpj": "49263189000102"
+    },
+    "ALUP11": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "UNIP6": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "IFCM3": {
+      "code": "25747",
+      "name": "INFRACOMMERCE CXAAS S.A.",
+      "cnpj": "38456921000136"
+    },
+    "ITUB4F": {
+      "code": "19348",
+      "name": "ITAÚ UNIBANCO HOLDING S.A.",
+      "cnpj": "60872504000123"
+    },
+    "ATED3": {
+      "code": "27677",
+      "name": "ATOM EDUCAÇÃO E EDITORA S.A.",
+      "cnpj": "23994857000170"
+    },
+    "AXIA7": {
+      "code": "2437",
+      "name": "AXIA ENERGIA S.A.",
+      "cnpj": "00001180000126"
+    },
+    "TRIS3": {
+      "code": "21130",
+      "name": "TRISUL S/A",
+      "cnpj": "08811643000127"
+    },
+    "PMAM3F": {
+      "code": "9393",
+      "name": "PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "60398369000479"
+    },
+    "PETR4F": {
+      "code": "9512",
+      "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "cnpj": "33000167000101"
+    },
+    "BRAP3": {
+      "code": "18724",
+      "name": "BRADESPAR S/A",
+      "cnpj": "03847461000192"
+    },
+    "AZUL3": {
+      "code": "24112",
+      "name": "AZUL S.A.",
+      "cnpj": "09305994000129"
+    },
+    "MATD3": {
+      "code": "25690",
+      "name": "HOSPITAL MATER DEI S.A.",
+      "cnpj": "16676520000159"
+    },
+    "MYPK3": {
+      "code": "11932",
+      "name": "IOCHPE MAXION SA",
+      "cnpj": "61156113000175"
+    },
+    "BBSE3F": {
+      "code": "23159",
+      "name": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+      "cnpj": "17344597000194"
+    },
+    "ENJU3": {
+      "code": "25259",
+      "name": "ENJOEI S.A.",
+      "cnpj": "16922038000151"
+    },
+    "HAGA4": {
+      "code": "13366",
+      "name": "HAGA S.A. INDÚSTRIA E COMÉRCIO",
+      "cnpj": "30540991000166"
+    },
+    "KLBN4F": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "SCAR3": {
+      "code": "13781",
+      "name": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+      "cnpj": "29780061000109"
+    },
+    "ESPA3": {
+      "code": "25445",
+      "name": "MPM CORPÓREOS S.A.",
+      "cnpj": "26659061000159"
+    },
+    "VALE3F": {
+      "code": "4170",
+      "name": "VALE S.A.",
+      "cnpj": "33592510000154"
+    },
+    "CXSE3F": {
+      "code": "23795",
+      "name": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+      "cnpj": "22543331000100"
+    },
+    "AGRO3": {
+      "code": "20036",
+      "name": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS",
+      "cnpj": "07628528000159"
+    },
+    "PDTC3": {
+      "code": "18414",
+      "name": "PADTEC HOLDING S.A.",
+      "cnpj": "02365069000144"
+    },
+    "POMO3F": {
+      "code": "8451",
+      "name": "MARCOPOLO SA",
+      "cnpj": "88611835000129"
+    },
+    "AMOB3": {
+      "code": "27707",
+      "name": "AUTOMOB PARTICIPAÇÕES S.A.",
+      "cnpj": "35654688000108"
+    },
+    "OFSA3": {
+      "code": "23507",
+      "name": "OUROFINO S.A.",
+      "cnpj": "20258278000170"
+    },
+    "LEVE3": {
+      "code": "8575",
+      "name": "MAHLE METAL LEVE S.A.",
+      "cnpj": "60476884000187"
+    },
+    "CGRA4": {
+      "code": "4537",
+      "name": "GRAZZIOTIN SA",
+      "cnpj": "92012467000170"
+    },
+    "DEXP3": {
+      "code": "16632",
+      "name": "DEXXOS PARTICIPAÇÕES S.A.",
+      "cnpj": "02193750000152"
+    },
+    "MGLU3F": {
+      "code": "22470",
+      "name": "MAGAZINE LUIZA SA",
+      "cnpj": "47960950000121"
+    },
+    "VLID3": {
+      "code": "20028",
+      "name": "VALID SOLUÇÕES S.A.",
+      "cnpj": "33113309000147"
+    },
+    "B3SA3F": {
+      "code": "21610",
+      "name": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "cnpj": "09346601000125"
+    },
+    "RCSL3": {
+      "code": "12572",
+      "name": "RECRUSUL SA",
+      "cnpj": "91333666000117"
+    },
+    "ISAE4F": {
+      "code": "18376",
+      "name": "ISA ENERGIA BRASIL S.A.",
+      "cnpj": "02998611000104"
+    },
+    "CPFE3F": {
+      "code": "18660",
+      "name": "CPFL ENERGIA SA",
+      "cnpj": "02429144000193"
+    },
+    "TCSA3": {
+      "code": "20435",
+      "name": "TECNISA S/A",
+      "cnpj": "08065557000112"
+    },
+    "FRAS3": {
+      "code": "6211",
+      "name": "FRASLE MOBILITY S.A.",
+      "cnpj": "88610126000129"
+    },
+    "PFRM3": {
+      "code": "20346",
+      "name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+      "cnpj": "45453214000151"
+    },
+    "WEGE3F": {
+      "code": "5410",
+      "name": "WEG SA",
+      "cnpj": "84429695000111"
+    },
+    "ETER3": {
+      "code": "5762",
+      "name": "ETERNIT S.A.",
+      "cnpj": "61092037000181"
+    },
+    "COGN3F": {
+      "code": "17973",
+      "name": "COGNA EDUCAÇÃO S.A.",
+      "cnpj": "02800026000140"
+    },
+    "ALOS3F": {
+      "code": "22357",
+      "name": "ALLOS S.A.",
+      "cnpj": "05878397000132"
+    },
+    "GOAU3": {
+      "code": "8656",
+      "name": "METALURGICA GERDAU SA",
+      "cnpj": "92690783000109"
+    },
+    "AMBP3F": {
+      "code": "24961",
+      "name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "12648266000124"
+    },
+    "VIVR3": {
+      "code": "20702",
+      "name": "VIVER INCORPORADORA E CONSTRUTORA S.A",
+      "cnpj": "67571414000141"
+    },
+    "JHSF3F": {
+      "code": "20605",
+      "name": "JHSF PARTICIPAÇÕES SA",
+      "cnpj": "08294224000165"
+    },
+    "TAEE11F": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "WHRL4": {
+      "code": "14346",
+      "name": "WHIRLPOOL S.A",
+      "cnpj": "59105999000186"
+    },
+    "RADL3F": {
+      "code": "5258",
+      "name": "RAIA DROGASIL S.A.",
+      "cnpj": "61585865000151"
+    },
+    "ARND3": {
+      "code": "25887",
+      "name": "ARANDU INVESTIMENTOS S.A.",
+      "cnpj": "14127813000151"
+    },
+    "VSTE3": {
+      "code": "21440",
+      "name": "VESTE SA ESTILO",
+      "cnpj": "49669856000143"
+    },
+    "EGIE3F": {
+      "code": "17329",
+      "name": "ENGIE BRASIL ENERGIA S.A.",
+      "cnpj": "02474103000119"
+    },
+    "AXIA3F": {
+      "code": "2437",
+      "name": "AXIA ENERGIA S.A.",
+      "cnpj": "00001180000126"
+    },
+    "EMBJ3F": {
+      "code": "20087",
+      "name": "EMBRAER S.A.",
+      "cnpj": "07689002000189"
+    },
+    "BRBI11F": {
+      "code": "25860",
+      "name": "BRBI BR PARTNERS S.A",
+      "cnpj": "10739356000103"
+    },
+    "EQPA3": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180"
+    },
+    "RENT4": {
+      "code": "19739",
+      "name": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085000155"
+    },
+    "CYRE3F": {
+      "code": "14460",
+      "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+      "cnpj": "73178600000118"
+    },
+    "MEAL3": {
+      "code": "23574",
+      "name": "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.",
+      "cnpj": "17314329000120"
+    },
+    "EALT4": {
+      "code": "5380",
+      "name": "ELECTRO AÇO ALTONA S/A",
+      "cnpj": "82643537000134"
+    },
+    "FHER3": {
+      "code": "20621",
+      "name": "FERTILIZANTES HERINGER S.A.",
+      "cnpj": "22266175000188"
+    },
+    "PSSA3F": {
+      "code": "16659",
+      "name": "PORTO SEGURO SA",
+      "cnpj": "02149205000169"
+    },
+    "RSUL4": {
+      "code": "13439",
+      "name": "METALURGICA RIOSULENSE SA",
+      "cnpj": "85778074000106"
+    },
+    "WEST3": {
+      "code": "25518",
+      "name": "WESTWING COMÉRCIO VAREJISTA S.A.",
+      "cnpj": "14776142000150"
+    },
+    "TASA3": {
+      "code": "6173",
+      "name": "TAURUS ARMAS S.A.",
+      "cnpj": "92781335000102"
+    },
+    "RAIZ55F": {
+      "code": "25917",
+      "name": "RAÍZEN S.A.",
+      "cnpj": "33453598000123"
+    },
+    "BEEF3F": {
+      "code": "20931",
+      "name": "MINERVA S/A",
+      "cnpj": "67620377000114"
+    },
+    "LREN3F": {
+      "code": "8133",
+      "name": "LOJAS RENNER SA",
+      "cnpj": "92754738000162"
+    },
+    "CSAN3F": {
+      "code": "19836",
+      "name": "COSAN S.A.",
+      "cnpj": "50746577000115"
+    },
+    "WDCN3": {
+      "code": "25895",
+      "name": "LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A.",
+      "cnpj": "05917486000140"
+    },
+    "ITSA3F": {
+      "code": "7617",
+      "name": "ITAUSA S.A.",
+      "cnpj": "61532644000115"
+    },
+    "PRIO3F": {
+      "code": "22187",
+      "name": "PRIO S.A.",
+      "cnpj": "10629105000168"
+    },
+    "TIMS3F": {
+      "code": "24929",
+      "name": "TIM S.A.",
+      "cnpj": "02421421000111"
+    },
+    "VIVR3F": {
+      "code": "20702",
+      "name": "VIVER INCORPORADORA E CONSTRUTORA S.A",
+      "cnpj": "67571414000141"
+    },
+    "EZTC3F": {
+      "code": "20770",
+      "name": "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A",
+      "cnpj": "08312229000173"
+    },
+    "GOAU4F": {
+      "code": "8656",
+      "name": "METALURGICA GERDAU SA",
+      "cnpj": "92690783000109"
+    },
+    "ABEV3F": {
+      "code": "23264",
+      "name": "AMBEV S.A.",
+      "cnpj": "07526557000100"
+    },
+    "EUCA4": {
+      "code": "5770",
+      "name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+      "cnpj": "56643018000166"
+    },
+    "ALUP4": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "BMGB4F": {
+      "code": "24600",
+      "name": "BANCO BMG S/A",
+      "cnpj": "61186680000174"
+    },
+    "DIRR3F": {
+      "code": "21350",
+      "name": "DIRECIONAL ENGENHARIA SA",
+      "cnpj": "16614075000100"
+    },
+    "VULC3F": {
+      "code": "11762",
+      "name": "VULCABRAS S.A.",
+      "cnpj": "50926955000142"
+    },
+    "SUZB3F": {
+      "code": "13986",
+      "name": "SUZANO S.A.",
+      "cnpj": "16404287000155"
+    },
+    "TAEE4F": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "CRPG5": {
+      "code": "11398",
+      "name": "TRONOX PIGMENTOS DO BRASIL S.A.",
+      "cnpj": "15115504000124"
+    },
+    "VIVT3F": {
+      "code": "17671",
+      "name": "TELEFÔNICA BRASIL S.A.",
+      "cnpj": "02558157000162"
+    },
+    "EQTL3F": {
+      "code": "20010",
+      "name": "EQUATORIAL S.A.",
+      "cnpj": "03220438000173"
+    },
+    "RAPT3": {
+      "code": "14109",
+      "name": "RANDONCORP S.A.",
+      "cnpj": "89086144000116"
+    },
+    "TEND3F": {
+      "code": "21148",
+      "name": "CONSTRUTORA TENDA S/A",
+      "cnpj": "71476527000135"
+    },
+    "SIMH3F": {
+      "code": "25003",
+      "name": "SIMPAR S.A.",
+      "cnpj": "07415333000120"
+    },
+    "DMVF3": {
+      "code": "25046",
+      "name": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+      "cnpj": "12108897000150"
+    },
+    "MOVI3F": {
+      "code": "23825",
+      "name": "MOVIDA PARTICIPAÇÕES S.A.",
+      "cnpj": "21314559000166"
+    },
+    "CMIN3F": {
+      "code": "25585",
+      "name": "CSN MINERAÇÃO S.A.",
+      "cnpj": "08902291000115"
+    },
+    "WIZC3F": {
+      "code": "23590",
+      "name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
+      "cnpj": "42278473000103"
+    },
+    "CAMB3": {
+      "code": "2100",
+      "name": "CAMBUCI SA",
+      "cnpj": "61088894000108"
+    },
+    "PETR3F": {
+      "code": "9512",
+      "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "cnpj": "33000167000101"
+    },
+    "RANI3F": {
+      "code": "2429",
+      "name": "IRANI PAPEL E EMBALAGEM S.A.",
+      "cnpj": "92791243000103"
+    },
+    "BRAP4F": {
+      "code": "18724",
+      "name": "BRADESPAR S/A",
+      "cnpj": "03847461000192"
+    },
+    "LUPA3": {
+      "code": "20060",
+      "name": "LUPATECH S.A.",
+      "cnpj": "89463822000112"
+    },
+    "ITUB3F": {
+      "code": "19348",
+      "name": "ITAÚ UNIBANCO HOLDING S.A.",
+      "cnpj": "60872504000123"
+    },
+    "SEQL3": {
+      "code": "25160",
+      "name": "SEQUOIA LOGÍSTICA E TRANSPORTES S.A.",
+      "cnpj": "01599101000193"
+    },
+    "ENGI4": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "SMFT3F": {
+      "code": "24260",
+      "name": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+      "cnpj": "07594978000178"
+    },
+    "RENT3F": {
+      "code": "19739",
+      "name": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085000155"
+    },
+    "AMAR3F": {
+      "code": "22055",
+      "name": "MARISA LOJAS SA",
+      "cnpj": "61189288000189"
+    },
+    "KLBN11F": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "GRND3F": {
+      "code": "19615",
+      "name": "GRENDENE SA",
+      "cnpj": "89850341000160"
+    },
+    "ALPA3": {
+      "code": "10456",
+      "name": "ALPARGATAS SA",
+      "cnpj": "61079117000105"
+    },
+    "CVCB3F": {
+      "code": "23310",
+      "name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
+      "cnpj": "10760260000119"
+    },
+    "TAEE3F": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "cnpj": "07859971000130"
+    },
+    "SAUD3F": {
+      "code": "20125",
+      "name": "BRADSAÚDE S.A.",
+      "cnpj": "58119199000151"
+    },
+    "MDNE3F": {
+      "code": "21067",
+      "name": "MOURA DUBEUX ENGENHARIA S/A",
+      "cnpj": "12049631000184"
+    },
+    "AURE3F": {
+      "code": "26620",
+      "name": "AUREN ENERGIA S.A",
+      "cnpj": "28594234000123"
+    },
+    "CSNA3F": {
+      "code": "4030",
+      "name": "CIA SIDERURGICA NACIONAL",
+      "cnpj": "33042730000104"
+    },
+    "AZZA3F": {
+      "code": "22349",
+      "name": "AZZAS 2154 S.A.",
+      "cnpj": "16590234000176"
+    },
+    "RECV3F": {
+      "code": "25780",
+      "name": "PETRORECÔNCAVO S.A.",
+      "cnpj": "03342704000130"
+    },
+    "CURY3F": {
+      "code": "25100",
+      "name": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "cnpj": "08797760000183"
+    },
+    "TTEN3F": {
+      "code": "25950",
+      "name": "TRÊS TENTOS AGROINDUSTRIAL S.A.",
+      "cnpj": "94813102000170"
+    },
+    "HOOT4": {
+      "code": "6700",
+      "name": "HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "33200049000147"
+    },
+    "USIM5F": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "cnpj": "60894730000105"
+    },
+    "FLRY3F": {
+      "code": "21881",
+      "name": "FLEURY SA",
+      "cnpj": "60840055000131"
+    },
+    "KLBN3F": {
+      "code": "12653",
+      "name": "KLABIN S.A.",
+      "cnpj": "89637490000145"
+    },
+    "TASA4F": {
+      "code": "6173",
+      "name": "TAURUS ARMAS S.A.",
+      "cnpj": "92781335000102"
+    },
+    "SLCE3F": {
+      "code": "20745",
+      "name": "SLC AGRICOLA SA",
+      "cnpj": "89096457000155"
+    },
+    "MTRE3F": {
+      "code": "24902",
+      "name": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+      "cnpj": "07882930000165"
+    },
+    "DTCY3": {
+      "code": "18597",
+      "name": "DTCOM - DIRECT TO COMPANY S.A.",
+      "cnpj": "03303999000136"
+    },
+    "MRVE3F": {
+      "code": "20915",
+      "name": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+      "cnpj": "08343492000120"
+    },
+    "GGBR4F": {
+      "code": "3980",
+      "name": "GERDAU S.A.",
+      "cnpj": "33611500000119"
+    },
+    "VIVA3F": {
+      "code": "24805",
+      "name": "VIVARA PARTICIPAÇÕES S.A.",
+      "cnpj": "33839910000111"
+    },
+    "ECOR3F": {
+      "code": "19453",
+      "name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+      "cnpj": "04149454000180"
+    },
+    "LEVE3F": {
+      "code": "8575",
+      "name": "MAHLE METAL LEVE S.A.",
+      "cnpj": "60476884000187"
+    },
+    "BIED3": {
+      "code": "701",
+      "name": "BIOMA EDUCAÇÃO S.A.",
+      "cnpj": "45987245000192"
+    },
+    "PGMN3F": {
+      "code": "22608",
+      "name": "EMPREENDIMENTOS PAGUE MENOS SA",
+      "cnpj": "06626253000151"
+    },
+    "TOTS3F": {
+      "code": "19992",
+      "name": "TOTVS S.A",
+      "cnpj": "53113791000122"
+    },
+    "VBBR3F": {
+      "code": "24295",
+      "name": "VIBRA ENERGIA S/A",
+      "cnpj": "34274233000102"
+    },
+    "CSUD3": {
+      "code": "20044",
+      "name": "CSU DIGITAL S.A.",
+      "cnpj": "01896779000138"
+    },
+    "SMTO3F": {
+      "code": "20516",
+      "name": "SÃO MARTINHO SA",
+      "cnpj": "51466860000156"
+    },
+    "LOGN3": {
+      "code": "20710",
+      "name": "LOG-IN LOGISTICA INTERMODAL SA",
+      "cnpj": "42278291000124"
+    },
+    "ONCO11": {
+      "code": "26123",
+      "name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+      "cnpj": "12104241000402"
+    },
+    "KEPL3F": {
+      "code": "7870",
+      "name": "KEPLER WEBER SA",
+      "cnpj": "91983056000169"
+    },
+    "CALI3": {
+      "code": "4723",
+      "name": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+      "cnpj": "61022042000118"
+    },
+    "CAML3F": {
+      "code": "24228",
+      "name": "CAMIL ALIMENTOS S/A",
+      "cnpj": "64904295000103"
+    },
+    "HAPV3F": {
+      "code": "24392",
+      "name": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+      "cnpj": "05197443000138"
+    },
+    "MULT3F": {
+      "code": "20982",
+      "name": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+      "cnpj": "07816890000153"
+    },
+    "UNIP6F": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "YDUQ3F": {
+      "code": "21016",
+      "name": "YDUQS PARTICIPACOES S.A.",
+      "cnpj": "08807432000110"
+    },
+    "EPAR3": {
+      "code": "15458",
+      "name": "EMBPAR PARTICIPAÇÕES S/A",
+      "cnpj": "42331462000131"
+    },
+    "GGBR3": {
+      "code": "3980",
+      "name": "GERDAU S.A.",
+      "cnpj": "33611500000119"
+    },
+    "MGEL4": {
+      "code": "8397",
+      "name": "MANGELS INDUSTRIAL S.A.",
+      "cnpj": "61065298000102"
+    },
+    "ASAI3F": {
+      "code": "25372",
+      "name": "SENDAS DISTRIBUIDORA S.A.",
+      "cnpj": "06057223000171"
+    },
+    "AGRO3F": {
+      "code": "20036",
+      "name": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS",
+      "cnpj": "07628528000159"
+    },
+    "LAVV3F": {
+      "code": "25062",
+      "name": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A",
+      "cnpj": "26462693000128"
+    },
+    "ALUP11F": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "IRBR3F": {
+      "code": "24180",
+      "name": "IRB - BRASIL RESSEGUROS S.A.",
+      "cnpj": "33376989000191"
+    },
+    "GMAT3F": {
+      "code": "25186",
+      "name": "GRUPO MATEUS S.A.",
+      "cnpj": "24990777000109"
+    },
+    "ENEV3F": {
+      "code": "21237",
+      "name": "ENEVA S.A.",
+      "cnpj": "04423567000121"
+    },
+    "SNSY5": {
+      "code": "12696",
+      "name": "SANSUY SA INDÚSTRIA  DE PLASTICOS",
+      "cnpj": "14807945000124"
+    },
+    "FIQE3F": {
+      "code": "26050",
+      "name": "UNIFIQUE TELECOMUNICAÇÕES S.A.",
+      "cnpj": "02255187000108"
+    },
+    "SHUL4F": {
+      "code": "14664",
+      "name": "SCHULZ SA",
+      "cnpj": "84693183000168"
+    },
+    "UGPA3F": {
+      "code": "18465",
+      "name": "ULTRAPAR PARTICIPAÇÕES SA",
+      "cnpj": "33256439000139"
+    },
+    "RDOR3F": {
+      "code": "24821",
+      "name": "REDE D'OR SÃO LUIZ S.A.",
+      "cnpj": "06047087000139"
+    },
+    "DOHL4": {
+      "code": "5207",
+      "name": "DOHLER S.A.",
+      "cnpj": "84683408000103"
+    },
+    "BRKM5F": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "NATU3F": {
+      "code": "19550",
+      "name": "NATURA COSMETICOS SA",
+      "cnpj": "71673990000177"
+    },
+    "HYPE3F": {
+      "code": "21431",
+      "name": "HYPERA S/A",
+      "cnpj": "02932074000191"
+    },
+    "CRPG6": {
+      "code": "11398",
+      "name": "TRONOX PIGMENTOS DO BRASIL S.A.",
+      "cnpj": "15115504000124"
+    },
+    "MNDL3": {
+      "code": "5312",
+      "name": "MUNDIAL S.A - PRODUTOS DE CONSUMO",
+      "cnpj": "88610191000154"
+    },
+    "BRAV3F": {
+      "code": "25291",
+      "name": "BRAVA ENERGIA S.A.",
+      "cnpj": "12091809000155"
+    },
+    "QUAL3F": {
+      "code": "22497",
+      "name": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+      "cnpj": "11992680000193"
+    },
+    "RCSL4F": {
+      "code": "12572",
+      "name": "RECRUSUL SA",
+      "cnpj": "91333666000117"
+    },
+    "IGTI11F": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "ECOM3": {
+      "code": "26077",
+      "name": "ECONOMATICA S.A.",
+      "cnpj": "26345998000150"
+    },
+    "ENGI11F": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "MOTV3F": {
+      "code": "18821",
+      "name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+      "cnpj": "02846056000197"
+    },
+    "SOJA3F": {
+      "code": "25704",
+      "name": "BOA SAFRA SEMENTES S.A",
+      "cnpj": "10807374000177"
+    },
+    "DOTZ3": {
+      "code": "25836",
+      "name": "DOTZ S.A.",
+      "cnpj": "18174270000184"
+    },
+    "AXIA7F": {
+      "code": "2437",
+      "name": "AXIA ENERGIA S.A.",
+      "cnpj": "00001180000126"
+    },
+    "LWSA3F": {
+      "code": "24910",
+      "name": "LWSA S/A",
+      "cnpj": "02351877000152"
+    },
+    "BIOM3": {
+      "code": "19305",
+      "name": "BIOMM SA",
+      "cnpj": "04752991000110"
+    },
+    "MBRF3F": {
+      "code": "20788",
+      "name": "MARFRIG GLOBAL FOODS SA",
+      "cnpj": "03853896000140"
+    },
+    "BRAP3F": {
+      "code": "18724",
+      "name": "BRADESPAR S/A",
+      "cnpj": "03847461000192"
+    },
+    "ENGI3": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "ESTR4": {
+      "code": "8427",
+      "name": "MANUFATURA DE  BRINQUEDOS ESTRELA SA",
+      "cnpj": "61082004000150"
+    },
+    "LAND3": {
+      "code": "26000",
+      "name": "TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A.",
+      "cnpj": "40337136000106"
+    },
+    "ANIM3F": {
+      "code": "23248",
+      "name": "ANIMA HOLDING S/A",
+      "cnpj": "09288252000132"
+    },
+    "TASA3F": {
+      "code": "6173",
+      "name": "TAURUS ARMAS S.A.",
+      "cnpj": "92781335000102"
+    },
+    "CASH3F": {
+      "code": "25232",
+      "name": "MELIUZ S.A.",
+      "cnpj": "14110585000107"
+    },
+    "AMOB3F": {
+      "code": "27707",
+      "name": "AUTOMOB PARTICIPAÇÕES S.A.",
+      "cnpj": "35654688000108"
+    },
+    "PLPL3F": {
+      "code": "25070",
+      "name": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "24230275000180"
+    },
+    "ROMI3F": {
+      "code": "7510",
+      "name": "ROMI S.A.",
+      "cnpj": "56720428000163"
+    },
+    "RAIL3F": {
+      "code": "17450",
+      "name": "RUMO S.A.",
+      "cnpj": "02387241000160"
+    },
+    "AZTE3F": {
+      "code": "27626",
+      "name": "AZEVEDO & TRAVASSOS ENERGIA S.A.",
+      "cnpj": "52017473000103"
+    },
+    "CBAV3F": {
+      "code": "25984",
+      "name": "COMPANHIA BRASILEIRA DE ALUMINIO",
+      "cnpj": "61409892000173"
+    },
+    "MTSA4": {
+      "code": "8753",
+      "name": "METISA METALÚRGICA  TIMBOENSE SA",
+      "cnpj": "86375425000109"
+    },
+    "BRKM3": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "EKTR4": {
+      "code": "17485",
+      "name": "ELEKTRO REDES S.A.",
+      "cnpj": "02328280000197"
+    },
+    "ALPA4F": {
+      "code": "10456",
+      "name": "ALPARGATAS SA",
+      "cnpj": "61079117000105"
+    },
+    "PASS3F": {
+      "code": "25127",
+      "name": "COMPASS GÁS E ENERGIA S.A.",
+      "cnpj": "21389501000181"
+    },
+    "TUPY3F": {
+      "code": "6343",
+      "name": "TUPY SA",
+      "cnpj": "84683374000149"
+    },
+    "GEPA3": {
+      "code": "18368",
+      "name": "RIO PARANAPANEMA ENERGIA SA",
+      "cnpj": "02998301000181"
+    },
+    "TELB4": {
+      "code": "11258",
+      "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS",
+      "cnpj": "00336701000104"
+    },
+    "MELK3F": {
+      "code": "25119",
+      "name": "MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "12181987000177"
+    },
+    "GFSA3F": {
+      "code": "16101",
+      "name": "GAFISA SA",
+      "cnpj": "01545826000107"
+    },
+    "ALLD3F": {
+      "code": "25330",
+      "name": "ALLIED TECNOLOGIA S.A.",
+      "cnpj": "20247322000147"
+    },
+    "RIAA3F": {
+      "code": "4669",
+      "name": "GUARARAPES CONFECÇÕES SA",
+      "cnpj": "08402943000152"
+    },
+    "DXCO3F": {
+      "code": "21091",
+      "name": "DEXCO S.A.",
+      "cnpj": "97837181000147"
+    },
+    "ALUP4F": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "PNVL3F": {
+      "code": "9342",
+      "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
+      "cnpj": "92665611000177"
+    },
+    "SEER3F": {
+      "code": "23221",
+      "name": "SER EDUCACIONAL S.A.",
+      "cnpj": "04986320000113"
+    },
+    "RAPT4F": {
+      "code": "14109",
+      "name": "RANDONCORP S.A.",
+      "cnpj": "89086144000116"
+    },
+    "VTRU3F": {
+      "code": "27057",
+      "name": "VITRU EDUCAÇÃO S.A.",
+      "cnpj": "20512706000140"
+    },
+    "GOAU3F": {
+      "code": "8656",
+      "name": "METALURGICA GERDAU SA",
+      "cnpj": "92690783000109"
+    },
+    "VLID3F": {
+      "code": "20028",
+      "name": "VALID SOLUÇÕES S.A.",
+      "cnpj": "33113309000147"
+    },
+    "GGBR3F": {
+      "code": "3980",
+      "name": "GERDAU S.A.",
+      "cnpj": "33611500000119"
+    },
+    "EVEN3F": {
+      "code": "20524",
+      "name": "EVEN CONSTRUTORA E INCORPORADORA S/A",
+      "cnpj": "43470988000165"
+    },
+    "AZUL3F": {
+      "code": "24112",
+      "name": "AZUL S.A.",
+      "cnpj": "09305994000129"
+    },
+    "ORVR3F": {
+      "code": "25550",
+      "name": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+      "cnpj": "11421994000136"
+    },
+    "TGMA3F": {
+      "code": "20800",
+      "name": "TEGMA GESTÃO LOGÍSTICA SA",
+      "cnpj": "02351144000118"
+    },
+    "HBOR3F": {
+      "code": "20877",
+      "name": "HELBOR EMPREENDIMENTOS S/A",
+      "cnpj": "49263189000102"
+    },
+    "JSLG3F": {
+      "code": "22020",
+      "name": "JSL S.A.",
+      "cnpj": "52548435000179"
+    },
+    "AUAU3F": {
+      "code": "27766",
+      "name": "UNIÃO PET PARTICIPAÇÕES S.A.",
+      "cnpj": "53153938000108"
+    },
+    "USIM3F": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "cnpj": "60894730000105"
+    },
+    "SBFG3F": {
+      "code": "24694",
+      "name": "GRUPO SBF S.A.",
+      "cnpj": "13217485000111"
+    },
+    "OPCT3F": {
+      "code": "25534",
+      "name": "OCEANPACT SERVIÇOS MARÍTIMOS S.A.",
+      "cnpj": "09114805000130"
+    },
+    "UNIP3": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "TECN3": {
+      "code": "22519",
+      "name": "TECHNOS SA",
+      "cnpj": "09295063000197"
+    },
+    "BALM4": {
+      "code": "1562",
+      "name": "BAUMER SA",
+      "cnpj": "61374161000130"
+    },
+    "PATI3": {
+      "code": "94",
+      "name": "PANATLANTICA SA",
+      "cnpj": "92693019000189"
+    },
+    "PLAS3": {
+      "code": "13471",
+      "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A",
+      "cnpj": "51928174000150"
+    },
+    "RNEW4": {
+      "code": "21636",
+      "name": "RENOVA ENERGIA S.A.",
+      "cnpj": "08534605000174"
+    },
+    "DEXP3F": {
+      "code": "16632",
+      "name": "DEXXOS PARTICIPAÇÕES S.A.",
+      "cnpj": "02193750000152"
+    },
+    "POSI3F": {
+      "code": "20362",
+      "name": "POSITIVO TECNOLOGIA S.A.",
+      "cnpj": "81243735000148"
+    },
+    "TRIS3F": {
+      "code": "21130",
+      "name": "TRISUL S/A",
+      "cnpj": "08811643000127"
+    },
+    "CSUD3F": {
+      "code": "20044",
+      "name": "CSU DIGITAL S.A.",
+      "cnpj": "01896779000138"
+    },
+    "OBTC3F": {
+      "code": "27910",
+      "name": "ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO",
+      "cnpj": "59693110000129"
+    },
+    "IGTI3F": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "ONCO3F": {
+      "code": "26123",
+      "name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+      "cnpj": "12104241000402"
+    },
+    "DASA3F": {
+      "code": "19623",
+      "name": "DIAGNOSTICOS DA AMERICA SA",
+      "cnpj": "61486650000183"
+    },
+    "WHRL4F": {
+      "code": "14346",
+      "name": "WHIRLPOOL S.A",
+      "cnpj": "59105999000186"
+    },
+    "BMOB3F": {
+      "code": "25500",
+      "name": "BEMOBI MOBILE TECH S.A.",
+      "cnpj": "09042817000105"
+    },
+    "CBEE3": {
+      "code": "3050",
+      "name": "AMPLA ENERGIA E SERVIÇOS S.A.",
+      "cnpj": "33050071000158"
+    },
+    "WHRL3": {
+      "code": "14346",
+      "name": "WHIRLPOOL S.A",
+      "cnpj": "59105999000186"
+    },
+    "EQPA5": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180"
+    },
+    "JFEN3": {
+      "code": "7811",
+      "name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "33035536000100"
+    },
+    "CTKA4": {
+      "code": "4146",
+      "name": "KARSTEN SA",
+      "cnpj": "82640558000104"
+    },
+    "AVLL3": {
+      "code": "25275",
+      "name": "ALPHAVILLE S.A.",
+      "cnpj": "16811931000100"
+    },
+    "BLAU3F": {
+      "code": "24627",
+      "name": "BLAU FARMACÊUTICA S.A.",
+      "cnpj": "58430828000160"
+    },
+    "JALL3F": {
+      "code": "25496",
+      "name": "JALLES MACHADO S.A.",
+      "cnpj": "02635522000195"
+    },
+    "CSED3F": {
+      "code": "25526",
+      "name": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
+      "cnpj": "62984091000102"
+    },
+    "MYPK3F": {
+      "code": "11932",
+      "name": "IOCHPE MAXION SA",
+      "cnpj": "61156113000175"
+    },
+    "SEQL3F": {
+      "code": "25160",
+      "name": "SEQUOIA LOGÍSTICA E TRANSPORTES S.A.",
+      "cnpj": "01599101000193"
+    },
+    "VITT3F": {
+      "code": "25763",
+      "name": "VITTIA S.A.",
+      "cnpj": "45365558000109"
+    },
+    "BRST3F": {
+      "code": "27693",
+      "name": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
+      "cnpj": "04601397000128"
+    },
+    "ETER3F": {
+      "code": "5762",
+      "name": "ETERNIT S.A.",
+      "cnpj": "61092037000181"
+    },
+    "LJQQ3F": {
+      "code": "25038",
+      "name": "LOJAS QUERO QUERO S.A.",
+      "cnpj": "96418264021802"
+    },
+    "DESK3F": {
+      "code": "26026",
+      "name": "DESKTOP S.A",
+      "cnpj": "08170849000115"
+    },
+    "PDGR3F": {
+      "code": "20478",
+      "name": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+      "cnpj": "02950811000189"
+    },
+    "GEPA4": {
+      "code": "18368",
+      "name": "RIO PARANAPANEMA ENERGIA SA",
+      "cnpj": "02998301000181"
+    },
+    "RNEW3": {
+      "code": "21636",
+      "name": "RENOVA ENERGIA S.A.",
+      "cnpj": "08534605000174"
+    },
+    "EUCA3": {
+      "code": "5770",
+      "name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+      "cnpj": "56643018000166"
+    },
+    "REDE3": {
+      "code": "3190",
+      "name": "REDE ENERGIA PARTICIPAÇÕES S.A.",
+      "cnpj": "61584140000149"
+    },
+    "ISAE3": {
+      "code": "18376",
+      "name": "ISA ENERGIA BRASIL S.A.",
+      "cnpj": "02998611000104"
+    },
+    "MAPT3": {
+      "code": "13854",
+      "name": "CEMEPE INVESTIMENTOS SA",
+      "cnpj": "93828986000173"
+    },
+    "CCTY3": {
+      "code": "27570",
+      "name": "BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "52805925000103"
+    },
+    "MRSA3B": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "WLMM4": {
+      "code": "11070",
+      "name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+      "cnpj": "33228024000151"
+    },
+    "EQPA3F": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180"
+    },
+    "TCSA3F": {
+      "code": "20435",
+      "name": "TECNISA S/A",
+      "cnpj": "08065557000112"
+    },
+    "PTBL3F": {
+      "code": "13773",
+      "name": "PBG S/A",
+      "cnpj": "83475913000191"
+    },
+    "VVEO3F": {
+      "code": "25682",
+      "name": "CM HOSPITALAR S.A",
+      "cnpj": "12420164000157"
+    },
+    "ENGI4F": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "LUPA3F": {
+      "code": "20060",
+      "name": "LUPATECH S.A.",
+      "cnpj": "89463822000112"
+    },
+    "EUCA3F": {
+      "code": "5770",
+      "name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+      "cnpj": "56643018000166"
+    },
+    "LPSB3F": {
+      "code": "20370",
+      "name": "LPS BRASIL CONSULTORIA DE IMOVEIS S/A",
+      "cnpj": "08078847000109"
+    },
+    "PRNR3F": {
+      "code": "24236",
+      "name": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
+      "cnpj": "18593815000197"
+    },
+    "CYRE4F": {
+      "code": "14460",
+      "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+      "cnpj": "73178600000118"
+    },
+    "TFCO4F": {
+      "code": "25208",
+      "name": "TRACK & FIELD CO S.A",
+      "cnpj": "59418806000147"
+    },
+    "RNEW3F": {
+      "code": "21636",
+      "name": "RENOVA ENERGIA S.A.",
+      "cnpj": "08534605000174"
+    },
+    "ALUP3F": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "EQMA3B": {
+      "code": "16608",
+      "name": "EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "06272793000184"
+    },
+    "HETA4": {
+      "code": "6629",
+      "name": "HERCULES S/A - FABRICA DE TALHERES",
+      "cnpj": "92749225000163"
+    },
+    "ENMT3": {
+      "code": "14605",
+      "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+      "cnpj": "03467321000199"
+    },
+    "SOND6": {
+      "code": "10880",
+      "name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+      "cnpj": "33386210000119"
+    },
+    "RPAD6": {
+      "code": "9954",
+      "name": "ALFA HOLDINGS S.A.",
+      "cnpj": "17167396000169"
+    },
+    "UNIP5": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "IGTI4": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "EALT3": {
+      "code": "5380",
+      "name": "ELECTRO AÇO ALTONA S/A",
+      "cnpj": "82643537000134"
+    },
+    "MNPR3": {
+      "code": "13765",
+      "name": "MINUPAR PARTICIPACOES SA",
+      "cnpj": "90076886000140"
+    },
+    "HAGA3": {
+      "code": "13366",
+      "name": "HAGA S.A. INDÚSTRIA E COMÉRCIO",
+      "cnpj": "30540991000166"
+    },
+    "WLMM3": {
+      "code": "11070",
+      "name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+      "cnpj": "33228024000151"
+    },
+    "BRKM6": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "NUTR3": {
+      "code": "21334",
+      "name": "NUTRIPLANT INDUSTRIA E COMÉRCIO S/A",
+      "cnpj": "51128999000190"
+    },
+    "UCAS3": {
+      "code": "22780",
+      "name": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+      "cnpj": "90441460000148"
+    },
+    "AALR3": {
+      "code": "24058",
+      "name": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
+      "cnpj": "42771949000135"
+    },
+    "ARML3F": {
+      "code": "26069",
+      "name": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",
+      "cnpj": "00242184000104"
+    },
+    "AZUL99": {
+      "code": "24112",
+      "name": "AZUL S.A.",
+      "cnpj": "09305994000129"
+    },
+    "VSTE3F": {
+      "code": "21440",
+      "name": "VESTE SA ESTILO",
+      "cnpj": "49669856000143"
+    },
+    "EUCA4F": {
+      "code": "5770",
+      "name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+      "cnpj": "56643018000166"
+    },
+    "MATD3F": {
+      "code": "25690",
+      "name": "HOSPITAL MATER DEI S.A.",
+      "cnpj": "16676520000159"
+    },
+    "TECN3F": {
+      "code": "22519",
+      "name": "TECHNOS SA",
+      "cnpj": "09295063000197"
+    },
+    "RENT4F": {
+      "code": "19739",
+      "name": "LOCALIZA RENT A CAR SA",
+      "cnpj": "16670085000155"
+    },
+    "BRKM3F": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "DMVF3F": {
+      "code": "25046",
+      "name": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+      "cnpj": "12108897000150"
+    },
+    "AZUL97": {
+      "code": "24112",
+      "name": "AZUL S.A.",
+      "cnpj": "09305994000129"
+    },
+    "TELB3F": {
+      "code": "11258",
+      "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS",
+      "cnpj": "00336701000104"
+    },
+    "UNIP3F": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "LAND3F": {
+      "code": "26000",
+      "name": "TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A.",
+      "cnpj": "40337136000106"
+    },
+    "HBTS5F": {
+      "code": "3298",
+      "name": "COMPANHIIA HABITASUL DE PARTICIPAÇÕES",
+      "cnpj": "87762563000103"
+    },
+    "JFEN3F": {
+      "code": "7811",
+      "name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "33035536000100"
+    },
+    "HOOT4F": {
+      "code": "6700",
+      "name": "HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "cnpj": "33200049000147"
+    },
+    "CRPG5F": {
+      "code": "11398",
+      "name": "TRONOX PIGMENTOS DO BRASIL S.A.",
+      "cnpj": "15115504000124"
+    },
+    "HBTS5": {
+      "code": "3298",
+      "name": "COMPANHIIA HABITASUL DE PARTICIPAÇÕES",
+      "cnpj": "87762563000103"
+    },
+    "DEXP4": {
+      "code": "16632",
+      "name": "DEXXOS PARTICIPAÇÕES S.A.",
+      "cnpj": "02193750000152"
+    },
+    "MRSA5B": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "ENMT4": {
+      "code": "14605",
+      "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+      "cnpj": "03467321000199"
+    },
+    "CGRA3": {
+      "code": "4537",
+      "name": "GRAZZIOTIN SA",
+      "cnpj": "92012467000170"
+    },
+    "RPAD5": {
+      "code": "9954",
+      "name": "ALFA HOLDINGS S.A.",
+      "cnpj": "17167396000169"
+    },
+    "DOHL3": {
+      "code": "5207",
+      "name": "DOHLER S.A.",
+      "cnpj": "84683408000103"
+    },
+    "SOND5": {
+      "code": "10880",
+      "name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+      "cnpj": "33386210000119"
+    },
+    "TXRX4": {
+      "code": "7544",
+      "name": "TÊXTIL RENAUXVIEW S/A",
+      "cnpj": "82982075000180"
+    },
+    "JOPA4": {
+      "code": "13285",
+      "name": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
+      "cnpj": "87456562000122"
+    },
+    "FIEI3": {
+      "code": "20630",
+      "name": "FICA EMPREENDIMENTOS IMOBILIARIOS S.A.",
+      "cnpj": "07820907000146"
+    },
+    "MAPT4": {
+      "code": "13854",
+      "name": "CEMEPE INVESTIMENTOS SA",
+      "cnpj": "93828986000173"
+    },
+    "BIED3F": {
+      "code": "701",
+      "name": "BIOMA EDUCAÇÃO S.A.",
+      "cnpj": "45987245000192"
+    },
+    "EQPA6": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180"
+    },
+    "MRSA6B": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "RVEE3": {
+      "code": "27650",
+      "name": "REVEE S.A.",
+      "cnpj": "52841191000118"
+    },
+    "USIM6": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "cnpj": "60894730000105"
+    },
+    "MWET4": {
+      "code": "11991",
+      "name": "WETZEL S.A.",
+      "cnpj": "84683671000194"
+    },
+    "AFLT3": {
+      "code": "22179",
+      "name": "AFLUENTE TRANSMISSÃO DE ENERGIA ELETRICA S/A",
+      "cnpj": "10338320000100"
+    },
+    "SHUL3": {
+      "code": "14664",
+      "name": "SCHULZ SA",
+      "cnpj": "84693183000168"
+    },
+    "ALUP3": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A",
+      "cnpj": "08364948000138"
+    },
+    "LUXM4": {
+      "code": "8192",
+      "name": "TREVISA  INVESTIMENTOS SA",
+      "cnpj": "92660570000126"
+    },
+    "BALM3": {
+      "code": "1562",
+      "name": "BAUMER SA",
+      "cnpj": "61374161000130"
+    },
+    "NORD3": {
+      "code": "9083",
+      "name": "NORDON INDUSTRIAS METALURGICAS S.A.",
+      "cnpj": "60884319000159"
+    },
+    "TELB3": {
+      "code": "11258",
+      "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS",
+      "cnpj": "00336701000104"
+    },
+    "EPAR3F": {
+      "code": "15458",
+      "name": "EMBPAR PARTICIPAÇÕES S/A",
+      "cnpj": "42331462000131"
+    },
+    "ONCO11F": {
+      "code": "26123",
+      "name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+      "cnpj": "12104241000402"
+    },
+    "SOND6F": {
+      "code": "10880",
+      "name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+      "cnpj": "33386210000119"
+    },
+    "HBRE3F": {
+      "code": "25402",
+      "name": "HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+      "cnpj": "14785152000151"
+    },
+    "OFSA3F": {
+      "code": "23507",
+      "name": "OUROFINO S.A.",
+      "cnpj": "20258278000170"
+    },
+    "ESPA3F": {
+      "code": "25445",
+      "name": "MPM CORPÓREOS S.A.",
+      "cnpj": "26659061000159"
+    },
+    "FRAS3F": {
+      "code": "6211",
+      "name": "FRASLE MOBILITY S.A.",
+      "cnpj": "88610126000129"
+    },
+    "ISAE3F": {
+      "code": "18376",
+      "name": "ISA ENERGIA BRASIL S.A.",
+      "cnpj": "02998611000104"
+    },
+    "LOGN3F": {
+      "code": "20710",
+      "name": "LOG-IN LOGISTICA INTERMODAL SA",
+      "cnpj": "42278291000124"
+    },
+    "IFCM3F": {
+      "code": "25747",
+      "name": "INFRACOMMERCE CXAAS S.A.",
+      "cnpj": "38456921000136"
+    },
+    "PATI4F": {
+      "code": "94",
+      "name": "PANATLANTICA SA",
+      "cnpj": "92693019000189"
+    },
+    "RPAD5F": {
+      "code": "9954",
+      "name": "ALFA HOLDINGS S.A.",
+      "cnpj": "17167396000169"
+    },
+    "ENGI3F": {
+      "code": "15253",
+      "name": "ENERGISA SA",
+      "cnpj": "00864214000106"
+    },
+    "SCAR3F": {
+      "code": "13781",
+      "name": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+      "cnpj": "29780061000109"
+    },
+    "MILS3F": {
+      "code": "22012",
+      "name": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",
+      "cnpj": "27093558000115"
+    },
+    "PDTC3F": {
+      "code": "18414",
+      "name": "PADTEC HOLDING S.A.",
+      "cnpj": "02365069000144"
+    },
+    "EQPA5F": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "04895728000180"
+    },
+    "DTCY3F": {
+      "code": "18597",
+      "name": "DTCOM - DIRECT TO COMPANY S.A.",
+      "cnpj": "03303999000136"
+    },
+    "RAPT3F": {
+      "code": "14109",
+      "name": "RANDONCORP S.A.",
+      "cnpj": "89086144000116"
+    },
+    "RNEW4F": {
+      "code": "21636",
+      "name": "RENOVA ENERGIA S.A.",
+      "cnpj": "08534605000174"
+    },
+    "BALM4F": {
+      "code": "1562",
+      "name": "BAUMER SA",
+      "cnpj": "61374161000130"
+    },
+    "GGPS3F": {
+      "code": "25712",
+      "name": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+      "cnpj": "09229201000130"
+    },
+    "PFRM3F": {
+      "code": "20346",
+      "name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+      "cnpj": "45453214000151"
+    },
+    "MGEL4F": {
+      "code": "8397",
+      "name": "MANGELS INDUSTRIAL S.A.",
+      "cnpj": "61065298000102"
+    },
+    "BIOM3F": {
+      "code": "19305",
+      "name": "BIOMM SA",
+      "cnpj": "04752991000110"
+    },
+    "GEPA3F": {
+      "code": "18368",
+      "name": "RIO PARANAPANEMA ENERGIA SA",
+      "cnpj": "02998301000181"
+    },
+    "BRKM6F": {
+      "code": "4820",
+      "name": "BRASKEM S.A.",
+      "cnpj": "42150391000170"
+    },
+    "MRSA6BF": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "RCSL3F": {
+      "code": "12572",
+      "name": "RECRUSUL SA",
+      "cnpj": "91333666000117"
+    },
+    "EALT4F": {
+      "code": "5380",
+      "name": "ELECTRO AÇO ALTONA S/A",
+      "cnpj": "82643537000134"
+    },
+    "CGRA3F": {
+      "code": "4537",
+      "name": "GRAZZIOTIN SA",
+      "cnpj": "92012467000170"
+    },
+    "MRSA3BF": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "ENMT3F": {
+      "code": "14605",
+      "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+      "cnpj": "03467321000199"
+    },
+    "TELB4F": {
+      "code": "11258",
+      "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS",
+      "cnpj": "00336701000104"
+    },
+    "AALR3F": {
+      "code": "24058",
+      "name": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
+      "cnpj": "42771949000135"
+    },
+    "ALPA3F": {
+      "code": "10456",
+      "name": "ALPARGATAS SA",
+      "cnpj": "61079117000105"
+    },
+    "UCAS3F": {
+      "code": "22780",
+      "name": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+      "cnpj": "90441460000148"
+    },
+    "HETA4F": {
+      "code": "6629",
+      "name": "HERCULES S/A - FABRICA DE TALHERES",
+      "cnpj": "92749225000163"
+    },
+    "NORD3F": {
+      "code": "9083",
+      "name": "NORDON INDUSTRIAS METALURGICAS S.A.",
+      "cnpj": "60884319000159"
+    },
+    "CTKA4F": {
+      "code": "4146",
+      "name": "KARSTEN SA",
+      "cnpj": "82640558000104"
+    },
+    "WDCN3F": {
+      "code": "25895",
+      "name": "LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A.",
+      "cnpj": "05917486000140"
+    },
+    "CAMB3F": {
+      "code": "2100",
+      "name": "CAMBUCI SA",
+      "cnpj": "61088894000108"
+    },
+    "IGTI4F": {
+      "code": "8672",
+      "name": "IGUATEMI S.A.",
+      "cnpj": "60543816000193"
+    },
+    "CCTY3F": {
+      "code": "27570",
+      "name": "BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A.",
+      "cnpj": "52805925000103"
+    },
+    "CGRA4F": {
+      "code": "4537",
+      "name": "GRAZZIOTIN SA",
+      "cnpj": "92012467000170"
+    },
+    "UNIP5F": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A.",
+      "cnpj": "33958695000178"
+    },
+    "DEXP4F": {
+      "code": "16632",
+      "name": "DEXXOS PARTICIPAÇÕES S.A.",
+      "cnpj": "02193750000152"
+    },
+    "DOTZ3F": {
+      "code": "25836",
+      "name": "DOTZ S.A.",
+      "cnpj": "18174270000184"
+    },
+    "HAGA4F": {
+      "code": "13366",
+      "name": "HAGA S.A. INDÚSTRIA E COMÉRCIO",
+      "cnpj": "30540991000166"
+    },
+    "AVLL3F": {
+      "code": "25275",
+      "name": "ALPHAVILLE S.A.",
+      "cnpj": "16811931000100"
+    },
+    "HBSA3F": {
+      "code": "22675",
+      "name": "HIDROVIAS DO BRASIL S.A.",
+      "cnpj": "12648327000153"
+    },
+    "JOPA3F": {
+      "code": "13285",
+      "name": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
+      "cnpj": "87456562000122"
+    },
+    "RVEE3F": {
+      "code": "27650",
+      "name": "REVEE S.A.",
+      "cnpj": "52841191000118"
+    },
+    "DOHL3F": {
+      "code": "5207",
+      "name": "DOHLER S.A.",
+      "cnpj": "84683408000103"
+    },
+    "MNDL3F": {
+      "code": "5312",
+      "name": "MUNDIAL S.A - PRODUTOS DE CONSUMO",
+      "cnpj": "88610191000154"
+    },
+    "MAPT4F": {
+      "code": "13854",
+      "name": "CEMEPE INVESTIMENTOS SA",
+      "cnpj": "93828986000173"
+    },
+    "EALT3F": {
+      "code": "5380",
+      "name": "ELECTRO AÇO ALTONA S/A",
+      "cnpj": "82643537000134"
+    },
+    "ARND3F": {
+      "code": "25887",
+      "name": "ARANDU INVESTIMENTOS S.A.",
+      "cnpj": "14127813000151"
+    },
+    "FIEI3F": {
+      "code": "20630",
+      "name": "FICA EMPREENDIMENTOS IMOBILIARIOS S.A.",
+      "cnpj": "07820907000146"
+    },
+    "WLMM3F": {
+      "code": "11070",
+      "name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+      "cnpj": "33228024000151"
+    },
+    "MEAL3F": {
+      "code": "23574",
+      "name": "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.",
+      "cnpj": "17314329000120"
+    },
+    "ECOM3F": {
+      "code": "26077",
+      "name": "ECONOMATICA S.A.",
+      "cnpj": "26345998000150"
+    },
+    "WEST3F": {
+      "code": "25518",
+      "name": "WESTWING COMÉRCIO VAREJISTA S.A.",
+      "cnpj": "14776142000150"
+    },
+    "AFLT3F": {
+      "code": "22179",
+      "name": "AFLUENTE TRANSMISSÃO DE ENERGIA ELETRICA S/A",
+      "cnpj": "10338320000100"
+    },
+    "AHEB3F": {
+      "code": "9415",
+      "name": "SÃO PAULO TURISMO S.A.",
+      "cnpj": "62002886000160"
+    },
+    "SOND5F": {
+      "code": "10880",
+      "name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+      "cnpj": "33386210000119"
+    },
+    "ENJU3F": {
+      "code": "25259",
+      "name": "ENJOEI S.A.",
+      "cnpj": "16922038000151"
+    },
+    "MWET4F": {
+      "code": "11991",
+      "name": "WETZEL S.A.",
+      "cnpj": "84683671000194"
+    },
+    "MRSA5BF": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A",
+      "cnpj": "01417222000177"
+    },
+    "GEPA4F": {
+      "code": "18368",
+      "name": "RIO PARANAPANEMA ENERGIA SA",
+      "cnpj": "02998301000181"
+    },
+    "RSUL4F": {
+      "code": "13439",
+      "name": "METALURGICA RIOSULENSE SA",
+      "cnpj": "85778074000106"
+    },
+    "RPAD3F": {
+      "code": "9954",
+      "name": "ALFA HOLDINGS S.A.",
+      "cnpj": "17167396000169"
+    },
+    "SNSY6F": {
+      "code": "12696",
+      "name": "SANSUY SA INDÚSTRIA  DE PLASTICOS",
+      "cnpj": "14807945000124"
+    },
+    "CBEE3F": {
+      "code": "3050",
+      "name": "AMPLA ENERGIA E SERVIÇOS S.A.",
+      "cnpj": "33050071000158"
+    },
+    "CRPG6F": {
+      "code": "11398",
+      "name": "TRONOX PIGMENTOS DO BRASIL S.A.",
+      "cnpj": "15115504000124"
+    },
+    "EKTR3F": {
+      "code": "17485",
+      "name": "ELEKTRO REDES S.A.",
+      "cnpj": "02328280000197"
+    },
+    "EQMA3BF": {
+      "code": "16608",
+      "name": "EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.",
+      "cnpj": "06272793000184"
+    },
+    "ENMT4F": {
+      "code": "14605",
+      "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+      "cnpj": "03467321000199"
+    },
+    "DOHL4F": {
+      "code": "5207",
+      "name": "DOHLER S.A.",
+      "cnpj": "84683408000103"
+    },
+    "FHER3F": {
+      "code": "20621",
+      "name": "FERTILIZANTES HERINGER S.A.",
+      "cnpj": "22266175000188"
+    },
+    "EKTR4F": {
+      "code": "17485",
+      "name": "ELEKTRO REDES S.A.",
+      "cnpj": "02328280000197"
+    },
+    "NUTR3F": {
+      "code": "21334",
+      "name": "NUTRIPLANT INDUSTRIA E COMÉRCIO S/A",
+      "cnpj": "51128999000190"
+    },
+    "PLAS3F": {
+      "code": "13471",
+      "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A",
+      "cnpj": "51928174000150"
+    },
+    "AZUL98": {
+      "code": "24112",
+      "name": "AZUL S.A.",
+      "cnpj": "09305994000129"
+    },
+    "TXRX4F": {
+      "code": "7544",
+      "name": "TÊXTIL RENAUXVIEW S/A",
+      "cnpj": "82982075000180"
+    }
+  },
+  "byCnpj": {
+    "01547749000116": {
+      "code": "16330",
+      "name": "521 PARTICIPAÇOES S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL"
+    },
+    "01851771000155": {
+      "code": "16284",
+      "name": "524 PARTICIPAÇOES SA"
+    },
+    "07636657000199": {
+      "code": "26425",
+      "name": "ACO VERDE DO BRASIL S.A"
+    },
+    "08827501000158": {
+      "code": "23396",
+      "name": "AEGEA SANEAMENTO E PARTICIPAÇÕES S.A."
+    },
+    "12528708000107": {
+      "code": "25283",
+      "name": "AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A."
+    },
+    "10338320000100": {
+      "code": "22179",
+      "name": "AFLUENTE TRANSMISSÃO DE ENERGIA ELETRICA S/A"
+    },
+    "21240146000184": {
+      "code": "25658",
+      "name": "AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "27157474000106": {
+      "code": "25615",
+      "name": "ÁGUAS DE TERESINA SANEAMENTO SPE S.A."
+    },
+    "61067901000195": {
+      "code": "27979",
+      "name": "ÁGUAS DO PARÁ A SPE S.A"
+    },
+    "61067902000130": {
+      "code": "27960",
+      "name": "ÁGUAS DO PARÁ B SPE S.A."
+    },
+    "61067904000129": {
+      "code": "27987",
+      "name": "ÁGUAS DO PARÁ D SPE S.A."
+    },
+    "42310775000103": {
+      "code": "26735",
+      "name": "ÁGUAS DO RIO 1 SPE S.A."
+    },
+    "42644220000106": {
+      "code": "26743",
+      "name": "ÁGUAS DO RIO 4 SPE S.A."
+    },
+    "45456117000112": {
+      "code": "27359",
+      "name": "ÁGUAS DO SERTAO S.A."
+    },
+    "04089570000150": {
+      "code": "23442",
+      "name": "AGUAS GUARIROBA S.A."
+    },
+    "23438929000100": {
+      "code": "25194",
+      "name": "ALARES INTERNET PARTICIPAÇÕES S/A"
+    },
+    "17167396000169": {
+      "code": "9954",
+      "name": "ALFA HOLDINGS S.A."
+    },
+    "71208516000174": {
+      "code": "21032",
+      "name": "ALGAR TELECOM S/A"
+    },
+    "61156931000178": {
+      "code": "12823",
+      "name": "ALIPERTI S.A."
+    },
+    "42771949000135": {
+      "code": "24058",
+      "name": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A."
+    },
+    "20247322000147": {
+      "code": "25330",
+      "name": "ALLIED TECNOLOGIA S.A."
+    },
+    "05878397000132": {
+      "code": "22357",
+      "name": "ALLOS S.A."
+    },
+    "60537263000166": {
+      "code": "24953",
+      "name": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A."
+    },
+    "82120676000183": {
+      "code": "26395",
+      "name": "ALMEIDA JUNIOR SHOPPING CENTERS S.A."
+    },
+    "61079117000105": {
+      "code": "10456",
+      "name": "ALPARGATAS SA"
+    },
+    "16811931000100": {
+      "code": "25275",
+      "name": "ALPHAVILLE S.A."
+    },
+    "48344725000719": {
+      "code": "27030",
+      "name": "ALTHAIA S.A. INDÚSTRIA FARMACÊUTICA"
+    },
+    "08262121000113": {
+      "code": "27430",
+      "name": "ALUBAR METAIS E CABOS S.A."
+    },
+    "08364948000138": {
+      "code": "21490",
+      "name": "ALUPAR INVESTIMENTO S/A"
+    },
+    "42233757000175": {
+      "code": "26433",
+      "name": "ALVAREZ & MARSAL INVESTIMENTOS I S.A."
+    },
+    "07526557000100": {
+      "code": "23264",
+      "name": "AMBEV S.A."
+    },
+    "12648266000124": {
+      "code": "24961",
+      "name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "00776574000156": {
+      "code": "20990",
+      "name": "AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "33050071000158": {
+      "code": "3050",
+      "name": "AMPLA ENERGIA E SERVIÇOS S.A."
+    },
+    "09288252000132": {
+      "code": "23248",
+      "name": "ANIMA HOLDING S/A"
+    },
+    "14127813000151": {
+      "code": "25887",
+      "name": "ARANDU INVESTIMENTOS S.A."
+    },
+    "24624551000194": {
+      "code": "24120",
+      "name": "ARGO ENERGIA EMPREENDIMENTOS E PARTICIPAÇÕES S.A."
+    },
+    "24624490000165": {
+      "code": "24210",
+      "name": "ARGO TRANSMISSÃO DE ENERGIA S.A."
+    },
+    "20514590000188": {
+      "code": "26662",
+      "name": "ARGO V TRANSMISSAO DE ENERGIA S.A."
+    },
+    "20514555000169": {
+      "code": "26670",
+      "name": "ARGO VI TRANSMISSAO DE ENERGIA S.A."
+    },
+    "00242184000104": {
+      "code": "26069",
+      "name": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A."
+    },
+    "02919555000167": {
+      "code": "19771",
+      "name": "ARTERIS S.A."
+    },
+    "09359927000197": {
+      "code": "26514",
+      "name": "ASA BRANCA HOLDING S.A."
+    },
+    "38286323000166": {
+      "code": "27545",
+      "name": "ASSURUÁ 4 E 5 HOLDING ENERGIA S.A."
+    },
+    "23994857000170": {
+      "code": "27677",
+      "name": "ATOM EDUCAÇÃO E EDITORA S.A."
+    },
+    "08213823000107": {
+      "code": "26590",
+      "name": "AURA ALMAS MINERAÇÃO S.A."
+    },
+    "28594234000123": {
+      "code": "26620",
+      "name": "AUREN ENERGIA S.A"
+    },
+    "00194724000113": {
+      "code": "26174",
+      "name": "AUREN OPERAÇÕES S.A."
+    },
+    "37663076000107": {
+      "code": "25640",
+      "name": "AUREN PARTICIPAÇÕES S.A."
+    },
+    "37702340000174": {
+      "code": "26328",
+      "name": "AUSTRAVIAS S.A."
+    },
+    "35654688000108": {
+      "code": "27707",
+      "name": "AUTOMOB PARTICIPAÇÕES S.A."
+    },
+    "09326342000170": {
+      "code": "21989",
+      "name": "AUTOPISTA FERNÃO DIAS SA"
+    },
+    "09324949000111": {
+      "code": "22004",
+      "name": "AUTOPISTA FLUMINENSE SA"
+    },
+    "09313969000197": {
+      "code": "21997",
+      "name": "AUTOPISTA LITORAL SUL"
+    },
+    "09325109000173": {
+      "code": "21970",
+      "name": "AUTOPISTA PLANALTO SUL SA"
+    },
+    "09336431000106": {
+      "code": "21962",
+      "name": "AUTOPISTA REGIS BITTENCOURT SA"
+    },
+    "33541368000116": {
+      "code": "3328",
+      "name": "AXIA ENERGIA NORDESTE S.A."
+    },
+    "00357038000116": {
+      "code": "27472",
+      "name": "AXIA ENERGIA NORTE S.A."
+    },
+    "00001180000126": {
+      "code": "2437",
+      "name": "AXIA ENERGIA S.A."
+    },
+    "02016507000169": {
+      "code": "27480",
+      "name": "AXIA ENERGIA SUL S.A."
+    },
+    "09391823000160": {
+      "code": "23388",
+      "name": "AXIA ENERGIA UHE SANTO ANTÔNIO S.A."
+    },
+    "52017473000103": {
+      "code": "27626",
+      "name": "AZEVEDO & TRAVASSOS ENERGIA S.A."
+    },
+    "61351532000168": {
+      "code": "11975",
+      "name": "AZEVEDO & TRAVASSOS SA"
+    },
+    "09305994000129": {
+      "code": "24112",
+      "name": "AZUL S.A."
+    },
+    "16590234000176": {
+      "code": "22349",
+      "name": "AZZAS 2154 S.A."
+    },
+    "52270350000171": {
+      "code": "27634",
+      "name": "B100 S.A."
+    },
+    "09346601000125": {
+      "code": "21610",
+      "name": "B3 S.A. - BRASIL, BOLSA, BALCÃO"
+    },
+    "28195667000106": {
+      "code": "20958",
+      "name": "BANCO ABC BRASIL S/A"
+    },
+    "61186680000174": {
+      "code": "24600",
+      "name": "BANCO BMG S/A"
+    },
+    "60746948000112": {
+      "code": "906",
+      "name": "BANCO BRADESCO S.A."
+    },
+    "30306294000145": {
+      "code": "22616",
+      "name": "BANCO BTG PACTUAL S/A"
+    },
+    "04902979000144": {
+      "code": "922",
+      "name": "BANCO DA AMAZÔNIA S.A."
+    },
+    "62232889000190": {
+      "code": "20796",
+      "name": "BANCO DAYCOVAL S.A."
+    },
+    "00000000000191": {
+      "code": "1023",
+      "name": "BANCO DO BRASIL S.A."
+    },
+    "13009717000146": {
+      "code": "1120",
+      "name": "BANCO DO ESTADO DE SERGIPE SA"
+    },
+    "04913711000108": {
+      "code": "1171",
+      "name": "BANCO DO ESTADO DO PARÁ S/A."
+    },
+    "92702067000196": {
+      "code": "1210",
+      "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA"
+    },
+    "07237373000120": {
+      "code": "1228",
+      "name": "BANCO DO NORDESTE DO BRASIL SA"
+    },
+    "17184037000110": {
+      "code": "1325",
+      "name": "BANCO MERCANTIL BRASIL SA"
+    },
+    "34169557000172": {
+      "code": "1309",
+      "name": "BANCO MERCANTIL DE INVESTIMENTOS S.A."
+    },
+    "62144175000120": {
+      "code": "20567",
+      "name": "BANCO PINE S/A"
+    },
+    "62307848000115": {
+      "code": "21466",
+      "name": "BANCO RCI BRASIL S.A."
+    },
+    "90400888000142": {
+      "code": "20532",
+      "name": "BANCO SANTANDER (BRASIL) S.A."
+    },
+    "28127603000178": {
+      "code": "1155",
+      "name": "BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO"
+    },
+    "60851615000153": {
+      "code": "1520",
+      "name": "BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "61374161000130": {
+      "code": "1562",
+      "name": "BAUMER SA"
+    },
+    "17344597000194": {
+      "code": "23159",
+      "name": "BB SEGURIDADE PARTICIPAÇÕES S.A."
+    },
+    "01107327000120": {
+      "code": "24660",
+      "name": "BBM LOGÍSTICA S.A."
+    },
+    "26845702000160": {
+      "code": "24457",
+      "name": "BELÉM TRANSMISSORA DE ENERGIA S.A."
+    },
+    "52805925000103": {
+      "code": "27570",
+      "name": "BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A."
+    },
+    "09042817000105": {
+      "code": "25500",
+      "name": "BEMOBI MOBILE TECH S.A."
+    },
+    "02762124000130": {
+      "code": "17884",
+      "name": "BETAPART PARTICIPAÇÕES SA"
+    },
+    "56992423000190": {
+      "code": "1694",
+      "name": "BICICLETAS MONARK SA"
+    },
+    "45987245000192": {
+      "code": "701",
+      "name": "BIOMA EDUCAÇÃO S.A."
+    },
+    "04752991000110": {
+      "code": "19305",
+      "name": "BIOMM SA"
+    },
+    "04069709000102": {
+      "code": "25925",
+      "name": "BIONEXO S.A."
+    },
+    "58430828000160": {
+      "code": "24627",
+      "name": "BLAU FARMACÊUTICA S.A."
+    },
+    "24921465000143": {
+      "code": "26204",
+      "name": "BLUEFIT ACADEMIAS DE GINÁSTICA E PARTICIPAÇÕES S.A"
+    },
+    "00383281000109": {
+      "code": "16772",
+      "name": "BNDES PARTICIPAÇÕES S.A. - BNDESPAR"
+    },
+    "10807374000177": {
+      "code": "25704",
+      "name": "BOA SAFRA SEMENTES S.A"
+    },
+    "50564053000103": {
+      "code": "12190",
+      "name": "BOMBRIL S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "02117801000167": {
+      "code": "16560",
+      "name": "BONAIRE PARTICIPAÇÕES S.A.- EM LIQUIDAÇÃO"
+    },
+    "87870952000144": {
+      "code": "26980",
+      "name": "BORRACHAS VIPAL S.A."
+    },
+    "06977745000191": {
+      "code": "19909",
+      "name": "BR MALLS PARTICIPAÇOES S.A."
+    },
+    "47509120000182": {
+      "code": "19640",
+      "name": "BRADESCO LEASING S.A. - ARRENDAMENTO MERCANTIL"
+    },
+    "03847461000192": {
+      "code": "18724",
+      "name": "BRADESPAR S/A"
+    },
+    "58119199000151": {
+      "code": "20125",
+      "name": "BRADSAÚDE S.A."
+    },
+    "09478309000166": {
+      "code": "27375",
+      "name": "BRASIL BIOFUELS S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "35764708000101": {
+      "code": "27499",
+      "name": "BRASIL TECNOLOGIA E PARTICIPAÇÕES S.A."
+    },
+    "07628528000159": {
+      "code": "20036",
+      "name": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS"
+    },
+    "42150391000170": {
+      "code": "4820",
+      "name": "BRASKEM S.A."
+    },
+    "12091809000155": {
+      "code": "25291",
+      "name": "BRAVA ENERGIA S.A."
+    },
+    "14292540000109": {
+      "code": "27316",
+      "name": "BRAZIL TOWER, CESSÃO DE INFRA-ESTRUTURAS S.A"
+    },
+    "00000208000100": {
+      "code": "14206",
+      "name": "BRB BANCO DE BRASILIA SA"
+    },
+    "10739356000103": {
+      "code": "25860",
+      "name": "BRBI BR PARTNERS S.A"
+    },
+    "01838723000127": {
+      "code": "16292",
+      "name": "BRF S.A."
+    },
+    "04601397000128": {
+      "code": "27693",
+      "name": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A."
+    },
+    "39580673000101": {
+      "code": "26999",
+      "name": "BRK AMBIENTAL - REGIÃO METROPOLITANA DE MACEIÓ S.A."
+    },
+    "24396489000120": {
+      "code": "24830",
+      "name": "BRK AMBIENTAL PARTICIPAÇÕES S.A."
+    },
+    "36542025000164": {
+      "code": "23817",
+      "name": "BRQ SOLUÇÕES EM INFORMÁTICA S.A."
+    },
+    "04065053000141": {
+      "code": "27391",
+      "name": "BRZ EMPREENDIMENTOS E CONSTRUÇÕES S.A."
+    },
+    "04626426000106": {
+      "code": "27774",
+      "name": "BTG PACTUAL COMMODITIES SERTRADING S.A."
+    },
+    "45242914000105": {
+      "code": "24848",
+      "name": "C&A MODAS S.A."
+    },
+    "04030182000102": {
+      "code": "19119",
+      "name": "CABINDA PARTICIPAÇÕES SA"
+    },
+    "05336882000184": {
+      "code": "22683",
+      "name": "CACHOEIRA PAULISTA TRANSMISSORA DE ENERGIA SA"
+    },
+    "04031213000131": {
+      "code": "19135",
+      "name": "CACONDE PARTICIPAÇÕES SA"
+    },
+    "04038763000182": {
+      "code": "19097",
+      "name": "CAIANDA PARTICIPAÇÕES SA"
+    },
+    "00979969000156": {
+      "code": "15717",
+      "name": "CAIXA ADM DIV PUB ESTADUAL SA"
+    },
+    "22543331000100": {
+      "code": "23795",
+      "name": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A."
+    },
+    "61088894000108": {
+      "code": "2100",
+      "name": "CAMBUCI SA"
+    },
+    "64904295000103": {
+      "code": "24228",
+      "name": "CAMIL ALIMENTOS S/A"
+    },
+    "47815827000117": {
+      "code": "27871",
+      "name": "CAMINHOS DA SERRA GAUCHA S/A"
+    },
+    "02591787000139": {
+      "code": "17493",
+      "name": "CAPITALPART PARTICIPAÇÕES SA"
+    },
+    "00080671000100": {
+      "code": "26190",
+      "name": "CARAMURU ALIMENTOS S.A."
+    },
+    "07253321000147": {
+      "code": "14168",
+      "name": "CARBOMIL SA MINER. E INDUSTRIA"
+    },
+    "14882295000181": {
+      "code": "23620",
+      "name": "CBO HOLDING S.A."
+    },
+    "02201787000185": {
+      "code": "16675",
+      "name": "CEL PARTICIPAÇÕES S.A. - CELPAR"
+    },
+    "31001230000107": {
+      "code": "24597",
+      "name": "CELEO REDES TRANSMISSÃO DE ENERGIA S.A."
+    },
+    "93828986000173": {
+      "code": "13854",
+      "name": "CEMEPE INVESTIMENTOS SA"
+    },
+    "06981180000116": {
+      "code": "20303",
+      "name": "CEMIG DISTRIBUIÇÃO S/A"
+    },
+    "06981176000158": {
+      "code": "20320",
+      "name": "CEMIG GERAÇÃO E TRANSMISSÃO S/A"
+    },
+    "83878892000155": {
+      "code": "2461",
+      "name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A"
+    },
+    "08322396000103": {
+      "code": "26522",
+      "name": "CERRADINHO BIOENERGIA S.A."
+    },
+    "60933603000178": {
+      "code": "2577",
+      "name": "CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO"
+    },
+    "19014221000147": {
+      "code": "27103",
+      "name": "CHINA THREE GORGES BRASIL ENERGIA S.A."
+    },
+    "82508433000117": {
+      "code": "16861",
+      "name": "CIA CAT. DE ÁGUAS E SANEAMENTO - CASAN"
+    },
+    "15139629000194": {
+      "code": "14524",
+      "name": "CIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA"
+    },
+    "01938783000111": {
+      "code": "18708",
+      "name": "CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA"
+    },
+    "07047251000170": {
+      "code": "14869",
+      "name": "CIA ENERG CEARA - COELCE"
+    },
+    "17155730000164": {
+      "code": "2453",
+      "name": "CIA ENERG MINAS GERAIS - CEMIG"
+    },
+    "10835932000108": {
+      "code": "14362",
+      "name": "CIA ENERGÉTICA DE PERNAMBUCO - CELPE"
+    },
+    "08324196000181": {
+      "code": "18139",
+      "name": "CIA ENERGÉTICA DO RIO GRANDE DO NORTE"
+    },
+    "33352394000104": {
+      "code": "16373",
+      "name": "CIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE"
+    },
+    "08467115000100": {
+      "code": "20648",
+      "name": "CIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELETRICA"
+    },
+    "15141799000103": {
+      "code": "3069",
+      "name": "CIA FERRO LIGAS BAHIA FERBASA"
+    },
+    "04172213000151": {
+      "code": "19275",
+      "name": "CIA PIRATININGA DE FORÇA E LUZ"
+    },
+    "92802784000190": {
+      "code": "16748",
+      "name": "CIA RIOGRANDENSE DE SANEAMENTO"
+    },
+    "43776517000180": {
+      "code": "14443",
+      "name": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO"
+    },
+    "35522178000187": {
+      "code": "26107",
+      "name": "CIA SECURITIZADORA DE CRED. FIN. CARTÕES CONSIGNADOS II"
+    },
+    "33042730000104": {
+      "code": "4030",
+      "name": "CIA SIDERURGICA NACIONAL"
+    },
+    "76484013000145": {
+      "code": "18627",
+      "name": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR"
+    },
+    "33938119000169": {
+      "code": "16616",
+      "name": "CIA. DISTRIB. DE GÁS DO RIO DE JANEIRO"
+    },
+    "01027058000191": {
+      "code": "21733",
+      "name": "CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO"
+    },
+    "07043628000113": {
+      "code": "23531",
+      "name": "CLARO TELECOM PARTICIPAÇÕES S.A."
+    },
+    "43514079000181": {
+      "code": "27243",
+      "name": "CLI SUL S.A."
+    },
+    "12420164000157": {
+      "code": "25682",
+      "name": "CM HOSPITALAR S.A"
+    },
+    "61080313000191": {
+      "code": "4448",
+      "name": "COBRASMA SA"
+    },
+    "02800026000140": {
+      "code": "17973",
+      "name": "COGNA EDUCAÇÃO S.A."
+    },
+    "25369840000157": {
+      "code": "26280",
+      "name": "COMERC ENERGIA S.A."
+    },
+    "60730348000166": {
+      "code": "3654",
+      "name": "COMPANHIA  MELHORAMENTOS DE SÃO PAULO"
+    },
+    "61409892000173": {
+      "code": "25984",
+      "name": "COMPANHIA BRASILEIRA DE ALUMINIO"
+    },
+    "47508411000156": {
+      "code": "14826",
+      "name": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO"
+    },
+    "06267630000103": {
+      "code": "28002",
+      "name": "COMPANHIA BRASILEIRA DE EDUCAÇÃO E SISTEMA DE ENSINO S.A."
+    },
+    "08560444000193": {
+      "code": "21393",
+      "name": "COMPANHIA CELG DE PARTICIPAÇÕES - CELGPAR"
+    },
+    "07040108000157": {
+      "code": "18546",
+      "name": "COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ  - CAGECE"
+    },
+    "17245234000100": {
+      "code": "3077",
+      "name": "COMPANHIA DE FIACAO E TECIDOS CEDRO E CACHOEIRA"
+    },
+    "22261473000185": {
+      "code": "25178",
+      "name": "COMPANHIA DE GÁS DE MINAS GERAIS - GASMIG"
+    },
+    "61856571000117": {
+      "code": "15636",
+      "name": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS"
+    },
+    "17281106000103": {
+      "code": "19445",
+      "name": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS"
+    },
+    "62070362000106": {
+      "code": "27065",
+      "name": "COMPANHIA DO METROPOLITANO DE SÃO PAULO - METRÔ"
+    },
+    "00070698000111": {
+      "code": "14451",
+      "name": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB"
+    },
+    "28925264000175": {
+      "code": "24422",
+      "name": "COMPANHIA ENERGÉTICA JAGUARA"
+    },
+    "28942127000149": {
+      "code": "24430",
+      "name": "COMPANHIA ENERGÉTICA MIRANDA"
+    },
+    "19527586000175": {
+      "code": "24155",
+      "name": "COMPANHIA ENERGÉTICA SINOP S.A."
+    },
+    "39881421000104": {
+      "code": "27154",
+      "name": "COMPANHIA ESTADUAL DE GERAÇÃO DE ENERGIA ELÉTRICA - CEEE-G"
+    },
+    "19526748000150": {
+      "code": "3395",
+      "name": "COMPANHIA INDUSTRIAL CATAGUASES"
+    },
+    "21254073000180": {
+      "code": "3450",
+      "name": "COMPANHIA ITAUNENSE ENERGIA E PARTICIPAÇÕES"
+    },
+    "76483817000120": {
+      "code": "14311",
+      "name": "COMPANHIA PARANAENSE DE ENERGIA COPEL"
+    },
+    "33050196000188": {
+      "code": "3824",
+      "name": "COMPANHIA PAULISTA DE FORCA LUZ - CPFL"
+    },
+    "27137879000174": {
+      "code": "24147",
+      "name": "Companhia Securitizadora de Créditos Financeiros Cartões Consignados I"
+    },
+    "87762563000103": {
+      "code": "3298",
+      "name": "COMPANHIIA HABITASUL DE PARTICIPAÇÕES"
+    },
+    "21389501000181": {
+      "code": "25127",
+      "name": "COMPASS GÁS E ENERGIA S.A."
+    },
+    "10678505000163": {
+      "code": "22721",
+      "name": "CONC RODOVIAS DO TIETÊ S.A.- EM RECUPERAÇÃO JUDICIAL"
+    },
+    "15578569000106": {
+      "code": "23515",
+      "name": "CONC. DO AEROPORTO INTERNACIONAL DE GUARULHOS S.A."
+    },
+    "18572225000188": {
+      "code": "23868",
+      "name": "CONCEBRA - CONCESSIONARIA DAS RODOVIAS CENTRAIS DO BRASIL S.A."
+    },
+    "10324624000118": {
+      "code": "22144",
+      "name": "CONCESSÃO METROVIÁRIA DO RIO DE JANEIRO SA"
+    },
+    "10531501000158": {
+      "code": "22268",
+      "name": "CONCESSIONARIA AUTO RAPOSO TAVARES SA-CART"
+    },
+    "36763716000198": {
+      "code": "26859",
+      "name": "CONCESSIONARIA CATARINENSE DE RODOVIAS S.A."
+    },
+    "07682638000107": {
+      "code": "27731",
+      "name": "CONCESSIONÁRIA DA LINHA 4 DO METRÔ DE SÃO PAULO S.A."
+    },
+    "08822767000108": {
+      "code": "24104",
+      "name": "CONCESSIONÁRIA DA RODOVIA MG-050 S.A."
+    },
+    "10841050000155": {
+      "code": "22411",
+      "name": "CONCESSIONÁRIA DAS RODOVIAS AYRTON SENNA E CARVALHO PINTO S/A-ECOPISTAS"
+    },
+    "48851242000115": {
+      "code": "27790",
+      "name": "CONCESSIONARIA DAS RODOVIAS DO LESTE MS S/A"
+    },
+    "32161500000100": {
+      "code": "25356",
+      "name": "CONCESSIONÁRIA DAS RODOVIAS INTEGRADAS DO SUL S.A."
+    },
+    "19642306000170": {
+      "code": "23833",
+      "name": "CONCESSIONÁRIA DE RODOVIA SUL-MATOGROSSENSE S.A."
+    },
+    "03207703000183": {
+      "code": "21849",
+      "name": "CONCESSIONARIA DE RODOVIAS DO INTERIOR PAULISTA S/A"
+    },
+    "49314049000108": {
+      "code": "27464",
+      "name": "CONCESSIONÁRIA DE RODOVIAS NOROESTE PAULISTA S.A"
+    },
+    "59196897000113": {
+      "code": "27898",
+      "name": "CONCESSIONÁRIA DE RODOVIAS PRVIAS S.A."
+    },
+    "02451848000162": {
+      "code": "20192",
+      "name": "CONCESSIONÁRIA DO SISTEMA ANHANGUERA-BANDEIRANTES S.A."
+    },
+    "44319688000142": {
+      "code": "27421",
+      "name": "CONCESSIONÁRIA DO SISTEMA RODOVIÁRIO RIO-SÃO PAULO S.A."
+    },
+    "15090690000194": {
+      "code": "26638",
+      "name": "CONCESSIONARIA ECOVIAS DO ARAGUAIA S.A."
+    },
+    "35593905000105": {
+      "code": "26581",
+      "name": "CONCESSIONÁRIA ECOVIAS DO CERRADO S.A."
+    },
+    "02509491000126": {
+      "code": "20397",
+      "name": "CONCESSIONARIA ECOVIAS DOS IMIGRANTES SA"
+    },
+    "22163297000149": {
+      "code": "24139",
+      "name": "CONCESSIONARIA PONTE RIO-NITERÓI S.A. - ECOPONTE"
+    },
+    "00938574000105": {
+      "code": "19208",
+      "name": "CONCESSIONARIA RIO-TERESOPOLIS SA"
+    },
+    "50399553000137": {
+      "code": "27782",
+      "name": "CONCESSIONÁRIA RODOANEL NORTE SPE S.A."
+    },
+    "10647979000148": {
+      "code": "22071",
+      "name": "CONCESSIONÁRIA ROTA DAS BANDEIRAS S/A"
+    },
+    "41886692000102": {
+      "code": "27294",
+      "name": "CONCESSIONARIA ROTA DE SANTA MARIA S.A"
+    },
+    "19521322000104": {
+      "code": "23922",
+      "name": "CONCESSIONÁRIA ROTA DO OESTE S.A."
+    },
+    "15440708000130": {
+      "code": "27405",
+      "name": "CONCESSIONÁRIA VIARIO S.A."
+    },
+    "97191902000194": {
+      "code": "4693",
+      "name": "CONSERVAS ODERICH SA"
+    },
+    "61022042000118": {
+      "code": "4723",
+      "name": "CONSTRUTORA ADOLPHO LINDENBERG S.A."
+    },
+    "27743642000137": {
+      "code": "27340",
+      "name": "CONSTRUTORA METROCASA S.A."
+    },
+    "89723993000133": {
+      "code": "13030",
+      "name": "CONSTRUTORA SULTEPA S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "71476527000135": {
+      "code": "21148",
+      "name": "CONSTRUTORA TENDA S/A"
+    },
+    "04032433000180": {
+      "code": "19100",
+      "name": "CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "04368898000106": {
+      "code": "26808",
+      "name": "COPEL DISTRIBUIÇÃO S.A."
+    },
+    "04370282000170": {
+      "code": "24740",
+      "name": "COPEL GERAÇÃO E TRANSMISSÃO S/A"
+    },
+    "08845676000198": {
+      "code": "27669",
+      "name": "CORPÓREOS - SERVIÇOS TERAPÊUTICOS S.A."
+    },
+    "15114494000102": {
+      "code": "27260",
+      "name": "CORREDOR LOGÍSTICA E INFRAESTRUTURA S.A."
+    },
+    "50746577000115": {
+      "code": "19836",
+      "name": "COSAN S.A."
+    },
+    "02429144000193": {
+      "code": "18660",
+      "name": "CPFL ENERGIA SA"
+    },
+    "08439659000150": {
+      "code": "20540",
+      "name": "CPFL ENERGIAS RENOVÁVEIS S.A."
+    },
+    "92715812000131": {
+      "code": "3204",
+      "name": "CPFL TRANSMISSÃO S.A."
+    },
+    "10158356000101": {
+      "code": "27839",
+      "name": "CPX DISTRIBUIDORA S.A."
+    },
+    "62984091000102": {
+      "code": "25526",
+      "name": "CRUZEIRO DO SUL EDUCACIONAL S.A."
+    },
+    "08902291000115": {
+      "code": "25585",
+      "name": "CSN MINERAÇÃO S.A."
+    },
+    "01896779000138": {
+      "code": "20044",
+      "name": "CSU DIGITAL S.A."
+    },
+    "06981381000113": {
+      "code": "23981",
+      "name": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A."
+    },
+    "08797760000183": {
+      "code": "25100",
+      "name": "CURY CONSTRUTORA E INCORPORADORA S.A."
+    },
+    "10760260000119": {
+      "code": "23310",
+      "name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA"
+    },
+    "16233389000155": {
+      "code": "25542",
+      "name": "CVLB BRASIL S.A EM RECUPERAÇÃO JUDICAL"
+    },
+    "73178600000118": {
+      "code": "14460",
+      "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART"
+    },
+    "12108897000150": {
+      "code": "25046",
+      "name": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A."
+    },
+    "08170849000115": {
+      "code": "26026",
+      "name": "DESKTOP S.A"
+    },
+    "97837181000147": {
+      "code": "21091",
+      "name": "DEXCO S.A."
+    },
+    "02193750000152": {
+      "code": "16632",
+      "name": "DEXXOS PARTICIPAÇÕES S.A."
+    },
+    "61486650000183": {
+      "code": "19623",
+      "name": "DIAGNOSTICOS DA AMERICA SA"
+    },
+    "65654303000173": {
+      "code": "14214",
+      "name": "DIBENS LEASING S.A.- ARREND. MERCANTIL"
+    },
+    "92665611000177": {
+      "code": "9342",
+      "name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS"
+    },
+    "07659538000151": {
+      "code": "20052",
+      "name": "DINAMICA ENERGIA S/A"
+    },
+    "16614075000100": {
+      "code": "21350",
+      "name": "DIRECIONAL ENGENHARIA SA"
+    },
+    "84683408000103": {
+      "code": "5207",
+      "name": "DOHLER S.A."
+    },
+    "18174270000184": {
+      "code": "25836",
+      "name": "DOTZ S.A."
+    },
+    "03303999000136": {
+      "code": "18597",
+      "name": "DTCOM - DIRECT TO COMPANY S.A."
+    },
+    "19208022000170": {
+      "code": "23884",
+      "name": "ECO050 - CONCESSIONÁRIA DE RODOVIAS S.A."
+    },
+    "15484093000144": {
+      "code": "23582",
+      "name": "ECO101 CONCESSIONÁRIA DE RODOVIAS S.A."
+    },
+    "26345998000150": {
+      "code": "26077",
+      "name": "ECONOMATICA S.A."
+    },
+    "29884545000190": {
+      "code": "27456",
+      "name": "ECORIOMINAS CONCESSIONÁRIA DE RODOVIAS S.A."
+    },
+    "08873873000110": {
+      "code": "21903",
+      "name": "ECORODOVIAS CONCESSÕES E SERVIÇOS S/A"
+    },
+    "04149454000180": {
+      "code": "19453",
+      "name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A."
+    },
+    "03983431000103": {
+      "code": "19763",
+      "name": "EDP ENERGIAS DO BRASIL S/A"
+    },
+    "28152650000171": {
+      "code": "15342",
+      "name": "EDP ESPIRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A."
+    },
+    "02302100000106": {
+      "code": "16985",
+      "name": "EDP SÃO PAULO DISTRIBUIÇÃO DE ENERGIA S.A."
+    },
+    "36146575000164": {
+      "code": "26875",
+      "name": "EIXO SP CONCESSIONARIA DE RODOVIAS S.A."
+    },
+    "07401436000131": {
+      "code": "22810",
+      "name": "ELDORADO BRASIL CELULOSE S.A."
+    },
+    "35980592000130": {
+      "code": "26948",
+      "name": "ELEA DIGITAL INFRAESTRUTURA E REDES DE TELECOMUNICAÇÕES S.A."
+    },
+    "82643537000134": {
+      "code": "5380",
+      "name": "ELECTRO AÇO ALTONA S/A"
+    },
+    "02328280000197": {
+      "code": "17485",
+      "name": "ELEKTRO REDES S.A."
+    },
+    "61695227000193": {
+      "code": "14176",
+      "name": "ELETROPAULO METROP. ELET. SAO PAULO S.A."
+    },
+    "09053134000145": {
+      "code": "25348",
+      "name": "ELFA MEDICAMENTOS S.A."
+    },
+    "02302101000142": {
+      "code": "16993",
+      "name": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A."
+    },
+    "42331462000131": {
+      "code": "15458",
+      "name": "EMBPAR PARTICIPAÇÕES S/A"
+    },
+    "07689002000189": {
+      "code": "20087",
+      "name": "EMBRAER S.A."
+    },
+    "19403252000190": {
+      "code": "25909",
+      "name": "EMCCAMP RESIDENCIAL S.A."
+    },
+    "06626253000151": {
+      "code": "22608",
+      "name": "EMPREENDIMENTOS PAGUE MENOS SA"
+    },
+    "15413826000150": {
+      "code": "5576",
+      "name": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A."
+    },
+    "03467321000199": {
+      "code": "14605",
+      "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A"
+    },
+    "19527639000158": {
+      "code": "3271",
+      "name": "ENERGISA MINAS RIO - DISTRIBUIDORA DE ENERGIA S/A"
+    },
+    "09095183000140": {
+      "code": "21938",
+      "name": "ENERGISA PARAÍBA - DISTRIBUIDORA DE ENERGIA S/A"
+    },
+    "00864214000106": {
+      "code": "15253",
+      "name": "ENERGISA SA"
+    },
+    "13017462000163": {
+      "code": "18996",
+      "name": "ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S/A"
+    },
+    "07282377000120": {
+      "code": "24864",
+      "name": "ENERGISA SUL-SUDESTE - DISTRIBUIDORA DE ENERGIA S.A."
+    },
+    "28201130000101": {
+      "code": "24589",
+      "name": "ENERGISA TRANSMISSÃO DE ENERGIA S.A."
+    },
+    "04423567000121": {
+      "code": "21237",
+      "name": "ENEVA S.A."
+    },
+    "02474103000119": {
+      "code": "17329",
+      "name": "ENGIE BRASIL ENERGIA S.A."
+    },
+    "16922038000151": {
+      "code": "25259",
+      "name": "ENJOEI S.A."
+    },
+    "26664057000189": {
+      "code": "24341",
+      "name": "ENTREVIAS CONCESSIONÁRIA DE RODOVIAS S.A."
+    },
+    "09527023000123": {
+      "code": "26271",
+      "name": "ENVIRONMENTAL ESG PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "58056046000102": {
+      "code": "27928",
+      "name": "EPR IGUAÇU S.A."
+    },
+    "51136974000138": {
+      "code": "27715",
+      "name": "EPR INFRAESTRUTURA PR S.A."
+    },
+    "51137031000120": {
+      "code": "27723",
+      "name": "EPR LITORAL PIONEIRO S.A."
+    },
+    "60978495000150": {
+      "code": "28070",
+      "name": "EPR PARANA S.A."
+    },
+    "48127008000140": {
+      "code": "27596",
+      "name": "EPR SUL DE MINAS S.A."
+    },
+    "48127012000108": {
+      "code": "27537",
+      "name": "EPR TRIÂNGULO S.A."
+    },
+    "55231969000165": {
+      "code": "27863",
+      "name": "EPR VIA MINEIRA S.A."
+    },
+    "51742485000120": {
+      "code": "27588",
+      "name": "EPR VIAS DO CAFÉ S.A."
+    },
+    "01543032000104": {
+      "code": "25577",
+      "name": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S.A."
+    },
+    "06272793000184": {
+      "code": "16608",
+      "name": "EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A."
+    },
+    "04895728000180": {
+      "code": "18309",
+      "name": "EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A."
+    },
+    "03220438000173": {
+      "code": "20010",
+      "name": "EQUATORIAL S.A."
+    },
+    "15385166000140": {
+      "code": "27642",
+      "name": "EQUIPAV SANEAMENTO S.A."
+    },
+    "07802794000156": {
+      "code": "26158",
+      "name": "ESSENTIA PCHS S.A."
+    },
+    "61092037000181": {
+      "code": "5762",
+      "name": "ETERNIT S.A."
+    },
+    "56643018000166": {
+      "code": "5770",
+      "name": "EUCATEX S.A. INDUSTRIA E COMERCIO"
+    },
+    "61190096000192": {
+      "code": "26700",
+      "name": "EUROFARMA LABORATÓRIOS S.A."
+    },
+    "43470988000165": {
+      "code": "20524",
+      "name": "EVEN CONSTRUTORA E INCORPORADORA S/A"
+    },
+    "95426862000197": {
+      "code": "1570",
+      "name": "EXCELSIOR ALIMENTOS SA."
+    },
+    "35727157000106": {
+      "code": "25380",
+      "name": "EZ INC INCORPORAÇÕES S.A."
+    },
+    "08312229000173": {
+      "code": "20770",
+      "name": "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A"
+    },
+    "79430682000122": {
+      "code": "25429",
+      "name": "FARMÁCIA E DROGARIA NISSEI S.A."
+    },
+    "00359742000108": {
+      "code": "15423",
+      "name": "FASA S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "12489315000123": {
+      "code": "22977",
+      "name": "FERREIRA GOMES ENERGIA S.A."
+    },
+    "00924429000175": {
+      "code": "15369",
+      "name": "FERROVIA CENTRO-ATLANTICA S.A."
+    },
+    "09257877000137": {
+      "code": "21814",
+      "name": "FERROVIA NORTE SUL S/A"
+    },
+    "22266175000188": {
+      "code": "20621",
+      "name": "FERTILIZANTES HERINGER S.A."
+    },
+    "02171304000147": {
+      "code": "28010",
+      "name": "FGR INCORPORAÇÕES S.A."
+    },
+    "17159005000164": {
+      "code": "5983",
+      "name": "FIACAO E TECELAGEM SAO JOSE S/A - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "07820907000146": {
+      "code": "20630",
+      "name": "FICA EMPREENDIMENTOS IMOBILIARIOS S.A."
+    },
+    "59546515000134": {
+      "code": "27529",
+      "name": "FISIA COMÉRCIO DE PRODUTOS ESPORTIVOS S.A."
+    },
+    "60840055000131": {
+      "code": "21881",
+      "name": "FLEURY SA"
+    },
+    "00249786000185": {
+      "code": "14796",
+      "name": "FORPART S.A. - EM LIQUIDAÇÃO"
+    },
+    "07823262000103": {
+      "code": "26697",
+      "name": "FOZ DO RIO CLARO ENERGIA S.A."
+    },
+    "88610126000129": {
+      "code": "6211",
+      "name": "FRASLE MOBILITY S.A."
+    },
+    "17234244000131": {
+      "code": "23370",
+      "name": "FTL - FERROVIA TRANSNORDESTINA LOGÍSTICA S.A."
+    },
+    "01545826000107": {
+      "code": "16101",
+      "name": "GAFISA SA"
+    },
+    "02796775000140": {
+      "code": "17965",
+      "name": "GAMA PARTICIPAÇÕES S.A."
+    },
+    "08764621000153": {
+      "code": "21008",
+      "name": "GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A."
+    },
+    "33611500000119": {
+      "code": "3980",
+      "name": "GERDAU S.A."
+    },
+    "07714104000107": {
+      "code": "27502",
+      "name": "GIGA MAIS FIBRA TELECOMUNICAÇÕES S.A."
+    },
+    "09229201000130": {
+      "code": "25712",
+      "name": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A"
+    },
+    "81616807000155": {
+      "code": "27219",
+      "name": "GRANJA FARIA S.A."
+    },
+    "92012467000170": {
+      "code": "4537",
+      "name": "GRAZZIOTIN SA"
+    },
+    "89850341000160": {
+      "code": "19615",
+      "name": "GRENDENE SA"
+    },
+    "33041260065290": {
+      "code": "6505",
+      "name": "GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "04972092000122": {
+      "code": "26166",
+      "name": "GRUPO FARTURA DE HORTIFRUT S.A."
+    },
+    "24990777000109": {
+      "code": "25186",
+      "name": "GRUPO MATEUS S.A."
+    },
+    "59717553000102": {
+      "code": "26034",
+      "name": "GRUPO MULTILASER S.A."
+    },
+    "17765891000170": {
+      "code": "27820",
+      "name": "GRUPO SALTA EDUCAÇÃO S.A."
+    },
+    "13217485000111": {
+      "code": "24694",
+      "name": "GRUPO SBF S.A."
+    },
+    "31553627000101": {
+      "code": "25461",
+      "name": "GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "08397078000101": {
+      "code": "26603",
+      "name": "GSH CORP PARTICIPAÇÕES S.A."
+    },
+    "08402943000152": {
+      "code": "4669",
+      "name": "GUARARAPES CONFECÇÕES SA"
+    },
+    "30540991000166": {
+      "code": "13366",
+      "name": "HAGA S.A. INDÚSTRIA E COMÉRCIO"
+    },
+    "05197443000138": {
+      "code": "24392",
+      "name": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A."
+    },
+    "56444250000175": {
+      "code": "14850",
+      "name": "HAUSCENTER SA"
+    },
+    "14785152000151": {
+      "code": "25402",
+      "name": "HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A."
+    },
+    "49263189000102": {
+      "code": "20877",
+      "name": "HELBOR EMPREENDIMENTOS S/A"
+    },
+    "32431519000110": {
+      "code": "27332",
+      "name": "HÉLIO VALGAS SOLAR PARTICIPAÇÕES S.A."
+    },
+    "92749225000163": {
+      "code": "6629",
+      "name": "HERCULES S/A - FABRICA DE TALHERES"
+    },
+    "12648327000153": {
+      "code": "22675",
+      "name": "HIDROVIAS DO BRASIL S.A."
+    },
+    "27902165000296": {
+      "code": "27880",
+      "name": "HIGHLINE BRASIL II INFRAESTRUTURA DE TELECOMUNICAÇÕES S.A."
+    },
+    "40159947000164": {
+      "code": "25674",
+      "name": "HMOBI PARTICIPAÇÕES S.A"
+    },
+    "18903785000178": {
+      "code": "26565",
+      "name": "HOLDING DO ARAGUAIA S.A."
+    },
+    "02560878000107": {
+      "code": "26468",
+      "name": "HOSPITAL ANCHIETA S.A."
+    },
+    "25249439000183": {
+      "code": "25771",
+      "name": "HOSPITAL CARE CALEDONIA S.A."
+    },
+    "16676520000159": {
+      "code": "25690",
+      "name": "HOSPITAL MATER DEI S.A."
+    },
+    "33200049000147": {
+      "code": "6700",
+      "name": "HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "02932074000191": {
+      "code": "21431",
+      "name": "HYPERA S/A"
+    },
+    "40593395000106": {
+      "code": "26905",
+      "name": "IFIN PARTICIPACOES S.A."
+    },
+    "42353180000135": {
+      "code": "26727",
+      "name": "IGUÁ RIO DE JANEIRO S.A."
+    },
+    "08159965000133": {
+      "code": "23175",
+      "name": "IGUA SANEAMENTO S.A."
+    },
+    "58070452000120": {
+      "code": "27812",
+      "name": "IGUÁ SERGIPE S.A."
+    },
+    "51218147000193": {
+      "code": "20494",
+      "name": "IGUATEMI EMPRESA DE SHOPPING CENTERS S/A"
+    },
+    "60543816000193": {
+      "code": "8672",
+      "name": "IGUATEMI S.A."
+    },
+    "09054385000144": {
+      "code": "22560",
+      "name": "INBRANDS SA"
+    },
+    "09611768000176": {
+      "code": "24279",
+      "name": "INC EMPREENDIMENTOS IMOBILIÁRIOS S.A."
+    },
+    "02258422000197": {
+      "code": "17868",
+      "name": "INEPAR EQUIPAMENTOS E MONTAGENS S/A - EM RECUPERACAO JUDICIA"
+    },
+    "76627504000106": {
+      "code": "7595",
+      "name": "INEPAR S.A. INDUSTRIA E CONSTRUCOES EM RECUPERACAO JUDICIAL"
+    },
+    "38456921000136": {
+      "code": "25747",
+      "name": "INFRACOMMERCE CXAAS S.A."
+    },
+    "35822503000127": {
+      "code": "27251",
+      "name": "INSPIRALI EDUCAÇÃO S.A."
+    },
+    "82901000000127": {
+      "code": "25453",
+      "name": "INTELBRAS S.A. IND. DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA"
+    },
+    "17314329000120": {
+      "code": "23574",
+      "name": "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A."
+    },
+    "00644907000193": {
+      "code": "18589",
+      "name": "INVESTCO S/A"
+    },
+    "01548981000179": {
+      "code": "6041",
+      "name": "INVESTIMENTOS BEMGE S.A."
+    },
+    "03758318000124": {
+      "code": "18775",
+      "name": "INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR"
+    },
+    "61156113000175": {
+      "code": "11932",
+      "name": "IOCHPE MAXION SA"
+    },
+    "92791243000103": {
+      "code": "2429",
+      "name": "IRANI PAPEL E EMBALAGEM S.A."
+    },
+    "33376989000191": {
+      "code": "24180",
+      "name": "IRB - BRASIL RESSEGUROS S.A."
+    },
+    "02998611000104": {
+      "code": "18376",
+      "name": "ISA ENERGIA BRASIL S.A."
+    },
+    "60872504000123": {
+      "code": "19348",
+      "name": "ITAÚ UNIBANCO HOLDING S.A."
+    },
+    "61532644000115": {
+      "code": "7617",
+      "name": "ITAUSA S.A."
+    },
+    "14998371000119": {
+      "code": "21156",
+      "name": "J. MACEDO S/A"
+    },
+    "02635522000195": {
+      "code": "25496",
+      "name": "JALLES MACHADO S.A."
+    },
+    "02916265000160": {
+      "code": "20575",
+      "name": "JBS SA"
+    },
+    "08294224000165": {
+      "code": "20605",
+      "name": "JHSF PARTICIPAÇÕES SA"
+    },
+    "33035536000100": {
+      "code": "7811",
+      "name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "87456562000122": {
+      "code": "13285",
+      "name": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP"
+    },
+    "52548435000179": {
+      "code": "22020",
+      "name": "JSL S.A."
+    },
+    "09414761000164": {
+      "code": "22446",
+      "name": "K-INFRA RODOVIA DO AÇO S.A."
+    },
+    "09146451000106": {
+      "code": "25798",
+      "name": "KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A."
+    },
+    "43283811000150": {
+      "code": "25631",
+      "name": "KALUNGA S.A."
+    },
+    "82640558000104": {
+      "code": "4146",
+      "name": "KARSTEN SA"
+    },
+    "91983056000169": {
+      "code": "7870",
+      "name": "KEPLER WEBER SA"
+    },
+    "89637490000145": {
+      "code": "12653",
+      "name": "KLABIN S.A."
+    },
+    "13270520000166": {
+      "code": "25879",
+      "name": "KORA SAÚDE PARTICIPAÇÕES S.A."
+    },
+    "17159229000176": {
+      "code": "26182",
+      "name": "LABORATÓRIO TEUTO BRASILEIRO S.A."
+    },
+    "26462693000128": {
+      "code": "25062",
+      "name": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A"
+    },
+    "21414457000112": {
+      "code": "23558",
+      "name": "LEADS CIA. SECURITIZADORA"
+    },
+    "00873894000124": {
+      "code": "27383",
+      "name": "LET'S RENT A CAR S.A."
+    },
+    "02357251000153": {
+      "code": "24872",
+      "name": "LIFEMED INDUSTRIAL DE EQUIP. E ART. MEDICOS E HOSP. S.A."
+    },
+    "04368865000166": {
+      "code": "27367",
+      "name": "LIGGA TELECOMUNICAÇÕES S.A."
+    },
+    "01917818000136": {
+      "code": "23000",
+      "name": "LIGHT ENERGIA S.A."
+    },
+    "03378521000175": {
+      "code": "19879",
+      "name": "LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "60444437000146": {
+      "code": "8036",
+      "name": "LIGHT SERVIÇOS DE ELETRICIDADE SA"
+    },
+    "00974211000125": {
+      "code": "24937",
+      "name": "LINHA AMARELA S.A.- LAMSA"
+    },
+    "10234027000100": {
+      "code": "23680",
+      "name": "LINHAS DE MACAPÁ TRANSMISSORA DE ENERGIA S.A."
+    },
+    "10240186000100": {
+      "code": "23671",
+      "name": "LINHAS DE XINGU TRANSMISSORA DE ENERGIA S.A."
+    },
+    "00743065000127": {
+      "code": "15091",
+      "name": "LITEL PARTICIPACOES SA"
+    },
+    "05495546000184": {
+      "code": "24759",
+      "name": "LITELA PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO"
+    },
+    "05917486000140": {
+      "code": "25895",
+      "name": "LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A."
+    },
+    "00389481000179": {
+      "code": "24880",
+      "name": "LM TRANSPORTES INTERESTADUAIS SERVIÇOS E COMÉRCIO S.A."
+    },
+    "02286479000108": {
+      "code": "24813",
+      "name": "LOCALIZA  FLEET S.A."
+    },
+    "16670085000155": {
+      "code": "19739",
+      "name": "LOCALIZA RENT A CAR SA"
+    },
+    "09041168000110": {
+      "code": "23272",
+      "name": "LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES"
+    },
+    "42278291000124": {
+      "code": "20710",
+      "name": "LOG-IN LOGISTICA INTERMODAL SA"
+    },
+    "96418264021802": {
+      "code": "25038",
+      "name": "LOJAS QUERO QUERO S.A."
+    },
+    "92754738000162": {
+      "code": "8133",
+      "name": "LOJAS RENNER SA"
+    },
+    "02338534000158": {
+      "code": "17434",
+      "name": "LONGDIS SA"
+    },
+    "08078847000109": {
+      "code": "20370",
+      "name": "LPS BRASIL CONSULTORIA DE IMOVEIS S/A"
+    },
+    "89463822000112": {
+      "code": "20060",
+      "name": "LUPATECH S.A."
+    },
+    "43948405000169": {
+      "code": "26506",
+      "name": "LUPO S.A."
+    },
+    "02351877000152": {
+      "code": "24910",
+      "name": "LWSA S/A"
+    },
+    "07206816000115": {
+      "code": "20338",
+      "name": "M. DIAS BRANCO SA IND E COM DE ALIMENTOS"
+    },
+    "13783221000478": {
+      "code": "26379",
+      "name": "MADERO INDÚSTRIA E COMÉRCIO S.A."
+    },
+    "08795211000170": {
+      "code": "23612",
+      "name": "MAESTRO LOCADORA DE VEÍCULOS S.A."
+    },
+    "47960950000121": {
+      "code": "22470",
+      "name": "MAGAZINE LUIZA SA"
+    },
+    "60476884000187": {
+      "code": "8575",
+      "name": "MAHLE METAL LEVE S.A."
+    },
+    "21526148000134": {
+      "code": "28037",
+      "name": "MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S/A."
+    },
+    "09584854000137": {
+      "code": "26719",
+      "name": "MANAUS TRANSMISSORA DE ENERGIA S.A"
+    },
+    "61065298000102": {
+      "code": "8397",
+      "name": "MANGELS INDUSTRIAL S.A."
+    },
+    "46568486000160": {
+      "code": "27952",
+      "name": "MANTIQUEIRA HOLDING S.A."
+    },
+    "61082004000150": {
+      "code": "8427",
+      "name": "MANUFATURA DE  BRINQUEDOS ESTRELA SA"
+    },
+    "88611835000129": {
+      "code": "8451",
+      "name": "MARCOPOLO SA"
+    },
+    "03853896000140": {
+      "code": "20788",
+      "name": "MARFRIG GLOBAL FOODS SA"
+    },
+    "07334600000135": {
+      "code": "16268",
+      "name": "MARINA DE IRACEMA PARK SA"
+    },
+    "61189288000189": {
+      "code": "22055",
+      "name": "MARISA LOJAS SA"
+    },
+    "11395624000171": {
+      "code": "22500",
+      "name": "MASSA FALIDA DA BRASIL PHARMA SA"
+    },
+    "83296889000123": {
+      "code": "10243",
+      "name": "MASSA FALIDA DA SA IND E COMERCIO CHAPECO"
+    },
+    "14110585000107": {
+      "code": "25232",
+      "name": "MELIUZ S.A."
+    },
+    "12181987000177": {
+      "code": "25119",
+      "name": "MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A."
+    },
+    "17162082000173": {
+      "code": "4782",
+      "name": "MENDES JUNIOR ENGENHARIA SA"
+    },
+    "04821041000108": {
+      "code": "20613",
+      "name": "METALFRIO SOLUTIONS S/A"
+    },
+    "92690783000109": {
+      "code": "8656",
+      "name": "METALURGICA GERDAU SA"
+    },
+    "85778074000106": {
+      "code": "13439",
+      "name": "METALURGICA RIOSULENSE SA"
+    },
+    "16234171000115": {
+      "code": "8745",
+      "name": "METANOR SA METANOL DO NE"
+    },
+    "86375425000109": {
+      "code": "8753",
+      "name": "METISA METALÚRGICA  TIMBOENSE SA"
+    },
+    "27093558000115": {
+      "code": "22012",
+      "name": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A."
+    },
+    "17161241000115": {
+      "code": "8818",
+      "name": "MINASMAQUINAS SA"
+    },
+    "67620377000114": {
+      "code": "20931",
+      "name": "MINERVA S/A"
+    },
+    "90076886000140": {
+      "code": "13765",
+      "name": "MINUPAR PARTICIPACOES SA"
+    },
+    "07882930000165": {
+      "code": "24902",
+      "name": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A."
+    },
+    "13444994000187": {
+      "code": "22586",
+      "name": "MLOG S.A."
+    },
+    "02846056000197": {
+      "code": "18821",
+      "name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A."
+    },
+    "12049631000184": {
+      "code": "21067",
+      "name": "MOURA DUBEUX ENGENHARIA S/A"
+    },
+    "21314559000166": {
+      "code": "23825",
+      "name": "MOVIDA PARTICIPAÇÕES S.A."
+    },
+    "26659061000159": {
+      "code": "25445",
+      "name": "MPM CORPÓREOS S.A."
+    },
+    "01417222000177": {
+      "code": "17949",
+      "name": "MRS LOGÍSTICA S/A"
+    },
+    "08343492000120": {
+      "code": "20915",
+      "name": "MRV ENGENHARIA E PARTICIPAÇÕES S/A"
+    },
+    "07816890000153": {
+      "code": "20982",
+      "name": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A."
+    },
+    "88610191000154": {
+      "code": "5312",
+      "name": "MUNDIAL S.A - PRODUTOS DE CONSUMO"
+    },
+    "71673990000177": {
+      "code": "19550",
+      "name": "NATURA COSMETICOS SA"
+    },
+    "01083200000118": {
+      "code": "15539",
+      "name": "NEOENERGIA S.A"
+    },
+    "02604997000114": {
+      "code": "17540",
+      "name": "NEWTEL PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO"
+    },
+    "08613550000198": {
+      "code": "21180",
+      "name": "NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "60884319000159": {
+      "code": "9083",
+      "name": "NORDON INDUSTRIAS METALURGICAS S.A."
+    },
+    "09625321000156": {
+      "code": "24988",
+      "name": "NORTE BRASIL TRANSMISSORA DE ENERGIA S.A."
+    },
+    "12300288000107": {
+      "code": "25097",
+      "name": "NORTE ENERGIA S.A"
+    },
+    "47586663000101": {
+      "code": "27081",
+      "name": "NOVA SOCIEDADE DE NAVEGAÇÃO S.A."
+    },
+    "04992714000184": {
+      "code": "24708",
+      "name": "NOVA TRANSPORTADORA DO SUDESTE S.A. - NTS"
+    },
+    "51128999000190": {
+      "code": "21334",
+      "name": "NUTRIPLANT INDUSTRIA E COMÉRCIO S/A"
+    },
+    "29980141000108": {
+      "code": "26956",
+      "name": "OCEÂNICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    "09114805000130": {
+      "code": "25534",
+      "name": "OCEANPACT SERVIÇOS MARÍTIMOS S.A."
+    },
+    "76535764000143": {
+      "code": "11312",
+      "name": "OI S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "12104241000402": {
+      "code": "26123",
+      "name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A."
+    },
+    "59693110000129": {
+      "code": "27910",
+      "name": "ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO"
+    },
+    "32021201000161": {
+      "code": "27227",
+      "name": "ORIGEM ENERGIA S.A."
+    },
+    "03279285000130": {
+      "code": "27049",
+      "name": "ORIZON MEIO AMBIENTE S.A."
+    },
+    "11421994000136": {
+      "code": "25550",
+      "name": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A."
+    },
+    "09112685000132": {
+      "code": "21342",
+      "name": "OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "20258278000170": {
+      "code": "23507",
+      "name": "OUROFINO S.A."
+    },
+    "18080368000172": {
+      "code": "27901",
+      "name": "OZN HEALTH SPE S.A."
+    },
+    "96298013000168": {
+      "code": "25143",
+      "name": "PACAEMBU CONSTRUTORA S.A."
+    },
+    "02365069000144": {
+      "code": "18414",
+      "name": "PADTEC HOLDING S.A."
+    },
+    "92693019000189": {
+      "code": "94",
+      "name": "PANATLANTICA SA"
+    },
+    "14388334000199": {
+      "code": "20729",
+      "name": "PARANA BANCO S.A."
+    },
+    "60398369000479": {
+      "code": "9393",
+      "name": "PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "00185475000108": {
+      "code": "14680",
+      "name": "PARCOM PARTICIPACOES SA EM LIQUIDACAO"
+    },
+    "44854238000150": {
+      "code": "27448",
+      "name": "PARSAN S.A."
+    },
+    "23236821000127": {
+      "code": "25305",
+      "name": "PATRIMAR ENGENHARIA S.A."
+    },
+    "83475913000191": {
+      "code": "13773",
+      "name": "PBG S/A"
+    },
+    "09538973000153": {
+      "code": "21644",
+      "name": "PDG COMPANHIA SECURITIZADORA"
+    },
+    "02950811000189": {
+      "code": "20478",
+      "name": "PDG REALTY S.A. EMPREEND E PARTICIPACOES"
+    },
+    "33000167000101": {
+      "code": "9512",
+      "name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS"
+    },
+    "07275159000168": {
+      "code": "9520",
+      "name": "PETROLEO LUB DO NORDESTE SA"
+    },
+    "03342704000130": {
+      "code": "25780",
+      "name": "PETRORECÔNCAVO S.A."
+    },
+    "88613658000110": {
+      "code": "9539",
+      "name": "PETTENATI S.A. INDUSTRIA TEXTIL"
+    },
+    "17745307000114": {
+      "code": "28029",
+      "name": "PLAMEV ADMINISTRADORA DE BENEFÍCIOS DE ATENÇÃO À SAÚDE DE ANIMAIS DOMÉSTICOS S.A."
+    },
+    "24230275000180": {
+      "code": "25070",
+      "name": "PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A."
+    },
+    "51928174000150": {
+      "code": "13471",
+      "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A"
+    },
+    "49703913000163": {
+      "code": "27995",
+      "name": "PLATÃO CAPITAL S.A."
+    },
+    "59789545000171": {
+      "code": "13447",
+      "name": "POLPAR S.A."
+    },
+    "85041333000111": {
+      "code": "15407",
+      "name": "PORTO PONTA DO FELIX S/A"
+    },
+    "46573272000181": {
+      "code": "27618",
+      "name": "PORTO SAÚDE PARTICIPAÇÕES S.A."
+    },
+    "02149205000169": {
+      "code": "16659",
+      "name": "PORTO SEGURO SA"
+    },
+    "51430503000138": {
+      "code": "27600",
+      "name": "PORTO SERVIÇO S.A"
+    },
+    "18494485000182": {
+      "code": "23523",
+      "name": "PORTO SUDESTE V.M. S.A."
+    },
+    "04912242000102": {
+      "code": "9717",
+      "name": "PORTUENSE FERRAGENS S/A"
+    },
+    "81243735000148": {
+      "code": "20362",
+      "name": "POSITIVO TECNOLOGIA S.A."
+    },
+    "08574411000100": {
+      "code": "24546",
+      "name": "PRÁTICA PRODUTOS S.A."
+    },
+    "18593815000197": {
+      "code": "24236",
+      "name": "PRINER SERVIÇOS INDUSTRIAIS S.A."
+    },
+    "08926302000105": {
+      "code": "27740",
+      "name": "PRIO FORTE S.A."
+    },
+    "10629105000168": {
+      "code": "22187",
+      "name": "PRIO S.A."
+    },
+    "02291077000193": {
+      "code": "19232",
+      "name": "PRODUTORES ENERGET.DE MANSO S.A.- PROMAN"
+    },
+    "45453214000151": {
+      "code": "20346",
+      "name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A."
+    },
+    "02382073000110": {
+      "code": "23469",
+      "name": "PROLAGOS S/A - CONC.DE SERVICOS PÚBLICOS DE ÁGUA E ESGOTO"
+    },
+    "02992449000109": {
+      "code": "18333",
+      "name": "PROMPT PARTICIPAÇÕES S.A."
+    },
+    "11992680000193": {
+      "code": "22497",
+      "name": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A."
+    },
+    "35791391000194": {
+      "code": "23302",
+      "name": "QUALITY SOFTWARE S.A."
+    },
+    "28367479000118": {
+      "code": "27855",
+      "name": "QUANTUM PARTICIPAÇÕES S.A"
+    },
+    "52475549000136": {
+      "code": "27685",
+      "name": "R/HOLDINGS S.A."
+    },
+    "61585865000151": {
+      "code": "5258",
+      "name": "RAIA DROGASIL S.A."
+    },
+    "08070508000178": {
+      "code": "23230",
+      "name": "RAÍZEN ENERGIA S.A."
+    },
+    "33453598000123": {
+      "code": "25917",
+      "name": "RAÍZEN S.A."
+    },
+    "89086144000116": {
+      "code": "14109",
+      "name": "RANDONCORP S.A."
+    },
+    "91333666000117": {
+      "code": "12572",
+      "name": "RECRUSUL SA"
+    },
+    "06047087000139": {
+      "code": "24821",
+      "name": "REDE D'OR SÃO LUIZ S.A."
+    },
+    "61584140000149": {
+      "code": "3190",
+      "name": "REDE ENERGIA PARTICIPAÇÕES S.A."
+    },
+    "33412081000196": {
+      "code": "9989",
+      "name": "REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "10319900000150": {
+      "code": "26921",
+      "name": "REGENERA RIO S.A."
+    },
+    "08534605000174": {
+      "code": "21636",
+      "name": "RENOVA ENERGIA S.A."
+    },
+    "52810883000107": {
+      "code": "27561",
+      "name": "REVEE MCO S.A."
+    },
+    "52841191000118": {
+      "code": "27650",
+      "name": "REVEE S.A."
+    },
+    "02016440000162": {
+      "code": "16527",
+      "name": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A."
+    },
+    "38199406000118": {
+      "code": "25720",
+      "name": "RIO ALTO ENERGIAS RENOVÁVEIS S.A. - EM RECUPERAÇÃO JUDICIAL"
+    },
+    "23096269000119": {
+      "code": "25623",
+      "name": "RIO PARANA ENERGIA S.A."
+    },
+    "02998301000181": {
+      "code": "18368",
+      "name": "RIO PARANAPANEMA ENERGIA SA"
+    },
+    "42292007000174": {
+      "code": "27146",
+      "name": "RIO+ SANEAMENTO BL 3 S.A."
+    },
+    "67010660000124": {
+      "code": "20451",
+      "name": "RNI NEGÓCIOS IMOBILIÁRIOS S.A."
+    },
+    "59981829000165": {
+      "code": "25801",
+      "name": "RODOBENS S.A."
+    },
+    "03025305000146": {
+      "code": "23167",
+      "name": "RODOVIAS DAS COLINAS S.A."
+    },
+    "41508382000146": {
+      "code": "26352",
+      "name": "RODOVIAS DO BRASIL HOLDING S.A."
+    },
+    "56720428000163": {
+      "code": "7510",
+      "name": "ROMI S.A."
+    },
+    "33572408000197": {
+      "code": "26484",
+      "name": "RUMO MALHA CENTRAL S.A."
+    },
+    "24962466000136": {
+      "code": "15300",
+      "name": "RUMO MALHA NORTE S.A."
+    },
+    "39115514000128": {
+      "code": "17850",
+      "name": "RUMO MALHA OESTE S.A."
+    },
+    "02502844000166": {
+      "code": "17930",
+      "name": "RUMO MALHA PAULISTA S.A."
+    },
+    "01258944000126": {
+      "code": "15709",
+      "name": "RUMO MALHA SUL S.A."
+    },
+    "02387241000160": {
+      "code": "17450",
+      "name": "RUMO S.A."
+    },
+    "01616929000102": {
+      "code": "19186",
+      "name": "SANEAMENTO DE GOIAS SA"
+    },
+    "14807945000124": {
+      "code": "12696",
+      "name": "SANSUY SA INDÚSTRIA  DE PLASTICOS"
+    },
+    "00897864000158": {
+      "code": "15199",
+      "name": "SANTA CATARINA PART INVEST SA"
+    },
+    "02762121000104": {
+      "code": "17892",
+      "name": "SANTOS BRASIL PARTICIPAÇÕES S.A."
+    },
+    "29780061000109": {
+      "code": "13781",
+      "name": "SAO CARLOS EMPREEND E PARTICIPACOES S.A."
+    },
+    "51466860000156": {
+      "code": "20516",
+      "name": "SÃO MARTINHO SA"
+    },
+    "62002886000160": {
+      "code": "9415",
+      "name": "SÃO PAULO TURISMO S.A."
+    },
+    "06347409000165": {
+      "code": "25410",
+      "name": "SBF COMÉRCIO DE PRODUTOS ESPORTIVOS S.A."
+    },
+    "84693183000168": {
+      "code": "14664",
+      "name": "SCHULZ SA"
+    },
+    "07119838000148": {
+      "code": "19720",
+      "name": "SECME - COMPANHIA SECURITIZADORA DE CRÉDITOS IMOBILIÁRIOS"
+    },
+    "87043832000173": {
+      "code": "10561",
+      "name": "SEIVA S.A. - FLORESTAS E INDÚSTRIAS"
+    },
+    "06057223000171": {
+      "code": "25372",
+      "name": "SENDAS DISTRIBUIDORA S.A."
+    },
+    "80680093000181": {
+      "code": "26786",
+      "name": "SENIOR SISTEMAS S.A."
+    },
+    "01599101000193": {
+      "code": "25160",
+      "name": "SEQUOIA LOGÍSTICA E TRANSPORTES S.A."
+    },
+    "04986320000113": {
+      "code": "23221",
+      "name": "SER EDUCACIONAL S.A."
+    },
+    "42500384000151": {
+      "code": "26441",
+      "name": "SERENA ENERGIA S.A."
+    },
+    "09149503000106": {
+      "code": "23426",
+      "name": "SERENA GERAÇÃO S.A."
+    },
+    "07415333000120": {
+      "code": "25003",
+      "name": "SIMPAR S.A."
+    },
+    "89096457000155": {
+      "code": "20745",
+      "name": "SLC AGRICOLA SA"
+    },
+    "07594978000178": {
+      "code": "24260",
+      "name": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A."
+    },
+    "73903718000161": {
+      "code": "14303",
+      "name": "SNB PARTICIPACOES SA"
+    },
+    "46119855000137": {
+      "code": "16241",
+      "name": "SOCIEDADE ABASTECIMENTO DE AGUA E SANEAMENTO SA"
+    },
+    "41052420000107": {
+      "code": "27014",
+      "name": "SOLAR BEBIDAS S.A."
+    },
+    "40263170000183": {
+      "code": "27073",
+      "name": "SOLVI ESSENCIS AMBIENTAL S.A."
+    },
+    "33386210000119": {
+      "code": "10880",
+      "name": "SONDOTECNICA ENGENHARIA SOLOS S.A."
+    },
+    "48710127000120": {
+      "code": "27758",
+      "name": "SPE NOVO NORTE AEROPORTOS S.A"
+    },
+    "02062747000108": {
+      "code": "16586",
+      "name": "SUDESTE SA"
+    },
+    "01957772000189": {
+      "code": "16438",
+      "name": "SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO"
+    },
+    "60651809000105": {
+      "code": "9067",
+      "name": "SUZANO HOLDING S.A."
+    },
+    "16404287000155": {
+      "code": "13986",
+      "name": "SUZANO S.A."
+    },
+    "08801621000186": {
+      "code": "21040",
+      "name": "SYN PROP & TECH S.A."
+    },
+    "27967244000102": {
+      "code": "24481",
+      "name": "TAPAJÓS TRANSMISSORA DE ENERGIA S.A."
+    },
+    "92781335000102": {
+      "code": "6173",
+      "name": "TAURUS ARMAS S.A."
+    },
+    "08424178000171": {
+      "code": "11215",
+      "name": "TECBLU - TECELAGEM BLUMENAU S/A."
+    },
+    "09295063000197": {
+      "code": "22519",
+      "name": "TECHNOS SA"
+    },
+    "17359233000188": {
+      "code": "26760",
+      "name": "TECIDOS E ARMARINHOS MIGUEL BARTOLOMEU S.A."
+    },
+    "08065557000112": {
+      "code": "20435",
+      "name": "TECNISA S/A"
+    },
+    "08100057000174": {
+      "code": "27847",
+      "name": "TECNOGERA-LOCAÇÃO E TRANSFORMAÇÃO DE ENERGIA S.A."
+    },
+    "02351144000118": {
+      "code": "20800",
+      "name": "TEGMA GESTÃO LOGÍSTICA SA"
+    },
+    "30213493000109": {
+      "code": "25844",
+      "name": "TEGRA INCORPORADORA S.A."
+    },
+    "00336701000104": {
+      "code": "11258",
+      "name": "TELEC. BRASILEIRAS S.A. - TELEBRÁS"
+    },
+    "02558157000162": {
+      "code": "17671",
+      "name": "TELEFÔNICA BRASIL S.A."
+    },
+    "10502676000137": {
+      "code": "23329",
+      "name": "TERMELÉTRICA PERNAMBUCO III S.A."
+    },
+    "21748188000120": {
+      "code": "27804",
+      "name": "TERP GLBL BRASIL I PARTICIPAÇÕES S.A."
+    },
+    "40337136000106": {
+      "code": "26000",
+      "name": "TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A."
+    },
+    "82982075000180": {
+      "code": "7544",
+      "name": "TÊXTIL RENAUXVIEW S/A"
+    },
+    "84684455000163": {
+      "code": "26255",
+      "name": "TIGRE S.A. PARTICIPAÇÕES"
+    },
+    "02600854000134": {
+      "code": "27090",
+      "name": "TIM BRASIL SERVIÇOS E PARTICIPAÇÕES S.A."
+    },
+    "02421421000111": {
+      "code": "24929",
+      "name": "TIM S.A."
+    },
+    "53113791000122": {
+      "code": "19992",
+      "name": "TOTVS S.A"
+    },
+    "03014553000191": {
+      "code": "19330",
+      "name": "TPI - TRIUNFO PARTICIPACOES E INVESTIMENTOS S.A."
+    },
+    "59418806000147": {
+      "code": "25208",
+      "name": "TRACK & FIELD CO S.A"
+    },
+    "09074183000164": {
+      "code": "22225",
+      "name": "TRANSBRASILIANA CONCESSIONÁRIA DE RODOVIA SA"
+    },
+    "07859971000130": {
+      "code": "20257",
+      "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A."
+    },
+    "21728083000100": {
+      "code": "26654",
+      "name": "TRANSMISSORA JOSÉ MARIA DE MACEDO DE ELETRICIDADE S.A."
+    },
+    "02281836000137": {
+      "code": "20443",
+      "name": "TRANSNORDESTINA LOGISTICA SA"
+    },
+    "38042694000100": {
+      "code": "25240",
+      "name": "TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS S.A."
+    },
+    "26609050000164": {
+      "code": "24082",
+      "name": "TRAVESSIA SECURITIZADORA S.A."
+    },
+    "94813102000170": {
+      "code": "25950",
+      "name": "TRÊS TENTOS AGROINDUSTRIAL S.A."
+    },
+    "92660570000126": {
+      "code": "8192",
+      "name": "TREVISA  INVESTIMENTOS SA"
+    },
+    "08811643000127": {
+      "code": "21130",
+      "name": "TRISUL S/A"
+    },
+    "15115504000124": {
+      "code": "11398",
+      "name": "TRONOX PIGMENTOS DO BRASIL S.A."
+    },
+    "59115685000164": {
+      "code": "27944",
+      "name": "TUPI ENERGIAS RENOVÁVEIS S.A."
+    },
+    "84683374000149": {
+      "code": "6343",
+      "name": "TUPY SA"
+    },
+    "26982634000180": {
+      "code": "27197",
+      "name": "TURBI COMPARTILHAMENTO DE VEÍCULOS S.A."
+    },
+    "33256439000139": {
+      "code": "18465",
+      "name": "ULTRAPAR PARTICIPAÇÕES SA"
+    },
+    "53153938000108": {
+      "code": "27766",
+      "name": "UNIÃO PET PARTICIPAÇÕES S.A."
+    },
+    "60665981000118": {
+      "code": "26867",
+      "name": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S.A."
+    },
+    "90441460000148": {
+      "code": "22780",
+      "name": "UNICASA INDÚSTRIA DE MÓVEIS S.A."
+    },
+    "75609123000123": {
+      "code": "23280",
+      "name": "UNIDAS LOCAÇÕES E SERVIÇOS S.A."
+    },
+    "45736131000170": {
+      "code": "27162",
+      "name": "UNIDAS LOCADORA S.A."
+    },
+    "02255187000108": {
+      "code": "26050",
+      "name": "UNIFIQUE TELECOMUNICAÇÕES S.A."
+    },
+    "33958695000178": {
+      "code": "11592",
+      "name": "UNIPAR CARBOCLORO S.A."
+    },
+    "10571175000102": {
+      "code": "25437",
+      "name": "URBA DESENVOLVIMENTO URBANO S.A."
+    },
+    "04739720000124": {
+      "code": "24945",
+      "name": "USINA TERMELÉTRICA PAMPA SUL S.A."
+    },
+    "60894730000105": {
+      "code": "14320",
+      "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS"
+    },
+    "02041460000193": {
+      "code": "27022",
+      "name": "V. TAL - REDE NEUTRA DE TELECOMUNICAÇÕES S.A."
+    },
+    "33592510000154": {
+      "code": "4170",
+      "name": "VALE S.A."
+    },
+    "33113309000147": {
+      "code": "20028",
+      "name": "VALID SOLUÇÕES S.A."
+    },
+    "23373000000132": {
+      "code": "24716",
+      "name": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A."
+    },
+    "01723086000143": {
+      "code": "28100",
+      "name": "VELLORE S/A"
+    },
+    "31748174000160": {
+      "code": "26409",
+      "name": "VERO S.A."
+    },
+    "49669856000143": {
+      "code": "21440",
+      "name": "VESTE SA ESTILO"
+    },
+    "47155252000153": {
+      "code": "27936",
+      "name": "VIA ARAUCÁRIA CONCESSIONÁRIA DE RODOVIAS S.A."
+    },
+    "44067725000172": {
+      "code": "26913",
+      "name": "VIA BRASIL BR 163 CONCESSIONARIA DE RODOVIAS S.A."
+    },
+    "28019100000189": {
+      "code": "25607",
+      "name": "VIAPAULISTA S.A."
+    },
+    "10635691000153": {
+      "code": "22543",
+      "name": "VIARONDON CONCESSIONÁRIA DE RODOVIA SA"
+    },
+    "34274233000102": {
+      "code": "24295",
+      "name": "VIBRA ENERGIA S/A"
+    },
+    "02536066000126": {
+      "code": "27510",
+      "name": "VITAL ENGENHARIA AMBIENTAL S.A."
+    },
+    "20512706000140": {
+      "code": "27057",
+      "name": "VITRU EDUCAÇÃO S.A."
+    },
+    "45365558000109": {
+      "code": "25763",
+      "name": "VITTIA S.A."
+    },
+    "33839910000111": {
+      "code": "24805",
+      "name": "VIVARA PARTICIPAÇÕES S.A."
+    },
+    "67571414000141": {
+      "code": "20702",
+      "name": "VIVER INCORPORADORA E CONSTRUTORA S.A"
+    },
+    "32681371000172": {
+      "code": "21202",
+      "name": "VIX LOGÍSTICA S/A"
+    },
+    "42276907000128": {
+      "code": "28045",
+      "name": "VLI MULTIMODAL S.A"
+    },
+    "04212396000191": {
+      "code": "27324",
+      "name": "VOKE S.A."
+    },
+    "01637895000132": {
+      "code": "27189",
+      "name": "VOTORANTIM CIMENTOS S.A."
+    },
+    "41570356000148": {
+      "code": "27235",
+      "name": "VRENTAL LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS S.A."
+    },
+    "50926955000142": {
+      "code": "11762",
+      "name": "VULCABRAS S.A."
+    },
+    "09813204000116": {
+      "code": "25852",
+      "name": "W2W E-COMMERCE DE VINHOS S.A."
+    },
+    "84429695000111": {
+      "code": "5410",
+      "name": "WEG SA"
+    },
+    "14776142000150": {
+      "code": "25518",
+      "name": "WESTWING COMÉRCIO VAREJISTA S.A."
+    },
+    "84683671000194": {
+      "code": "11991",
+      "name": "WETZEL S.A."
+    },
+    "59105999000186": {
+      "code": "14346",
+      "name": "WHIRLPOOL S.A"
+    },
+    "42278473000103": {
+      "code": "23590",
+      "name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A."
+    },
+    "33228024000151": {
+      "code": "11070",
+      "name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A."
+    },
+    "01319044000141": {
+      "code": "15741",
+      "name": "WTC AMAZONAS SUITE HOTEL S.A."
+    },
+    "01989044000159": {
+      "code": "16551",
+      "name": "WTC RIO EMPREEND. E PARTICIPAÇÕES S.A."
+    },
+    "02217319000107": {
+      "code": "16705",
+      "name": "YBYRA CAPITAL S.A"
+    },
+    "08807432000110": {
+      "code": "21016",
+      "name": "YDUQS PARTICIPACOES S.A."
+    },
+    "11284204000118": {
+      "code": "23604",
+      "name": "YOU INC INCORPORADORA E PARTICIPAÇÃO S.A"
+    },
+    "13574594000196": {
+      "code": "24317",
+      "name": "ZAMP S.A."
+    }
+  }
+}

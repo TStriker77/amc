@@ -1,4 +1,7 @@
 node_modules/
+.news-cache/
+*.tmp
+*.tmp.html
 *.log
 .env
 .env.*

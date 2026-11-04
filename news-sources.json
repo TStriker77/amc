@@ -1,0 +1,5 @@
+{
+  "companies": [
+    {"id":"petrobras","name":"Petrobras","tickers":["PETR3","PETR4"],"index":"https://agencia.petrobras.com.br/","allowedHosts":["agencia.petrobras.com.br"],"sourceName":"Agência Petrobras — fonte da própria empresa"}
+  ]
+}

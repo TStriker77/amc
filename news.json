@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-04T15:10:21.656Z",
+  "coverage": [
+    "PETR3",
+    "PETR4"
+  ],
+  "items": [
+    {
+      "id": "3002d63f335ddcfb1f349d96c45a5dc230af2b39bf935062727c329e6e906b61",
+      "company": "petrobras",
+      "tickers": [
+        "PETR3",
+        "PETR4"
+      ],
+      "title": "Fitch eleva o Perfil de Crédito Individual da Petrobras",
+      "publishedAt": "2026-11-04T12:16:07-03:00",
+      "sourceUrl": "https://agencia.petrobras.com.br/w/negocio/fitch-eleva-o-perfil-de-cr%C3%A9dito-individual-da-petrobras",
+      "sourceName": "Agência Petrobras — fonte da própria empresa",
+      "sourceHash": "6e0aba1a78183774d240005ddde1bb5e8dfd6250aaf6e388e0256040ae61e115",
+      "generatedAt": "2026-11-04T15:10:21.656Z",
+      "model": "Codex — produzido nesta conversa",
+      "generationType": "assistant",
+      "reviewStatus": "automatic",
+      "summary": "A Fitch melhorou a avaliação de crédito individual da Petrobras de bbb para bbb+. Isso indica uma avaliação mais favorável da empresa por seus próprios fundamentos. A nota global permaneceu em BB, com perspectiva estável: são avaliações diferentes.",
+      "facts": [
+        {
+          "text": "O perfil de crédito individual passou de bbb para bbb+.",
+          "evidence": "de \"bbb\" para \"bbb+\""
+        },
+        {
+          "text": "A nota global foi mantida em BB, com perspectiva estável.",
+          "evidence": "em \"BB\", com perspectiva estável"
+        }
+      ],
+      "positives": [
+        "Pode fortalecer a percepção sobre a qualidade de crédito da companhia; a notícia associa a melhora à governança e ao desempenho operacional e financeiro."
+      ],
+      "negatives": [
+        "A melhora do perfil individual não significa que a nota global também tenha subido."
+      ],
+      "uncertainty": "O comunicado não demonstra que haverá redução dos custos de financiamento nem permite prever a cotação das ações."
+    },
+    {
+      "id": "44d91dc33dec89a3e1cb1d71c1c206c7b2a3ae012f1cd1827216ff85dac598b6",
+      "company": "petrobras",
+      "tickers": [
+        "PETR3",
+        "PETR4"
+      ],
+      "title": "Plataforma P-78 (Búzios 6) atinge topo de produção com 180 mil barris por dia",
+      "publishedAt": "2026-11-03T14:18:45-03:00",
+      "sourceUrl": "https://agencia.petrobras.com.br/w/negocio/plataforma-p-78-b%C3%BAzios-6-atinge-topo-de-produ%C3%A7%C3%A3o-com-180-mil-barris-por-dia",
+      "sourceName": "Agência Petrobras — fonte da própria empresa",
+      "sourceHash": "f9b61384183d99a5b39616457d97d153638be1115b17cc9e4738ce3e90f024b8",
+      "generatedAt": "2026-11-04T15:10:21.656Z",
+      "model": "Codex — produzido nesta conversa",
+      "generationType": "assistant",
+      "reviewStatus": "automatic",
+      "summary": "A plataforma P-78 atingiu sua capacidade nominal de 180 mil barris de petróleo por dia no campo de Búzios. O comunicado também cita novas plataformas com início de produção previsto para 2027. Capacidade operacional maior não informa, por si só, quanto o lucro aumentará.",
+      "facts": [
+        {
+          "text": "A P-78 atingiu 180 mil barris de petróleo por dia, sua capacidade nominal.",
+          "evidence": "a marca de 180 mil barris de petróleo por dia"
+        },
+        {
+          "text": "P-80 e P-82 têm início de produção previsto para 2027.",
+          "evidence": "com início de produção previsto para 2027"
+        }
+      ],
+      "positives": [
+        "Pode reforçar o volume produzido em Búzios se a operação mantiver esse desempenho."
+      ],
+      "negatives": [
+        "As unidades previstas para 2027 representam um cronograma futuro, não produção já entregue."
+      ],
+      "uncertainty": "O texto não informa o impacto líquido sobre custos, receita ou lucro, nem garante a manutenção diária do volume anunciado."
+    },
+    {
+      "id": "281e7c8b19596959e81b55ba20a26839847032830bfd906445fbe890488cd349",
+      "company": "petrobras",
+      "tickers": [
+        "PETR3",
+        "PETR4"
+      ],
+      "title": "Petrobras abre chamada de propostas de biometano com fornecimento de longo prazo",
+      "publishedAt": "2026-10-30T12:52:17-03:00",
+      "sourceUrl": "https://agencia.petrobras.com.br/w/negocio/petrobras-abre-chamada-de-propostas-de-biometano-com-fornecimento-de-longo-prazo",
+      "sourceName": "Agência Petrobras — fonte da própria empresa",
+      "sourceHash": "ca6ce3da53fe4c4dcb7d66e4959e469b6b198e485534535680394829f4ba46e6",
+      "generatedAt": "2026-11-04T15:10:21.656Z",
+      "model": "Codex — produzido nesta conversa",
+      "generationType": "assistant",
+      "reviewStatus": "automatic",
+      "summary": "A Petrobras abriu uma chamada para avaliar propostas de fornecimento de biometano, um combustível renovável. A iniciativa está ligada à descarbonização e à preparação para exigências regulatórias. Podem ser avaliados contratos de até dez anos, mas as propostas ainda não representam contratos fechados.",
+      "facts": [
+        {
+          "text": "A companhia considera eventuais contratos com vigência de até dez anos.",
+          "evidence": "contratos com vigência de até dez anos"
+        },
+        {
+          "text": "As propostas recebidas são não vinculantes.",
+          "evidence": "sendo as propostas não vinculantes"
+        }
+      ],
+      "positives": [
+        "Pode ajudar na substituição de parte do gás natural consumido pela empresa e na preparação para as obrigações regulatórias mencionadas."
+      ],
+      "negatives": [
+        "As metas individuais ainda dependem de definição da ANP; propostas não vinculantes não garantem contratação ou fornecimento."
+      ],
+      "uncertainty": "O comunicado não confirma preços, contratos assinados ou impacto financeiro final."
+    }
+  ],
+  "errors": []
+}
